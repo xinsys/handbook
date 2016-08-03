@@ -15,21 +15,21 @@ To be eligible for a promotion at 18F, you must have at least one year in the cu
 Process:  
    1. Supervisor reviews the higher position description (PD) and provides a justification for the promotion showing how the employee is performing at the higher level  
       a. The justification can be anywhere from 2-5 paragraphs and the content should align with the position description ([18F current list of PDs](https://docs.google.com/spreadsheets/d/1VfngE9xfmBnSmMwoyVp7VhHk1n2mr1AF3KzK12Tlb5o/edit#gid=0))  
-      b. [Sample justifications](https://docs.google.com/document/d/1H15tYABQzr79lnQPFIKN9jj7iGXjmQ1_mkvHh30_3q4/edit)
+      b. [Sample justifications](https://docs.google.com/document/d/1H15tYABQzr79lnQPFIKN9jj7iGXjmQ1_mkvHh30_3q4/edit)  
    2. Employee updates their resume to include their work at 18F  
       a. Again, the content should align with the PD  
       b. Make sure it's written in **plain language**  
       c. Keep the bureaucratic-style resume showing everything the employee has done and the start and stop dates (mm/yy) for each position  
    3. Send the supervisor justification and updated resume via email to Cristina Brydges and Jen Tress  
    4. Justification will be reviewed and then Talent will forward to HR for qualification and approval within one week of receipt  
-   5. If HR approves (typically within one week), Talent will initiate a request for personnel action (RPA) in the HR system for pay and grade level changes, etc.  
-      a. Once submitted it can take up to two pay periods to take effect.
+   5. If HR approves (typically within one week), Talent will initiate a request for personnel action (RPA) in the HR system for pay and grade level changes, etc. Once submitted it can take up to two pay periods to take effect.
 
 Please review the appropriate PD’s to help with the justification and resume updates. You can find your current PD by looking it up in your CHRIS account.
 
 Under “Position” you’ll see something like the following: Innovation Specialist.GS19.00CX489.034.019454.C
 
 Your PD number is the bolded part: Innovation Specialist.GS19.**00CX489**.034.019454.C
+
 
 ###General Schedule step increase process
 
