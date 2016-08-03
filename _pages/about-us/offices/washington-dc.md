@@ -224,3 +224,7 @@ There is a [health center](https://insite.gsa.gov/portal/content/615454) on the 
 ## <a id="food-and-coffee">Food and coffee</a>
 
 [Google Map](https://www.google.com/maps/d/u/0/edit?mid=zMY1nJmKeGBU.kU147P2SgCmA) with lots of food and drink options.
+
+## Evacuation procedures
+
+See [the emergency guide](https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit#heading=h.z1kljs2s6efn).

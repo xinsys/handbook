@@ -34,13 +34,13 @@ layout: null
                     <ol class="toc-nav-grandchildren">
                       {% for grandchild in child.children %}
                         <li class="{{ grandchild.text | slugify }}">
-                          <a href="{{ site.baseurl }}/{{ grandchild.url }}">{{ grandchild.text }}</a>
+                          <a href="{% if grandchild.internal %}{{ site.baseurl }}/{% endif %}{{ grandchild.url }}">{{ grandchild.text }}</a>
                         </li>
                       {% endfor %}
                     </ol>
                   {% else %}
                   <li class="{{ child.text | slugify }}">
-                    <a href="{{ site.baseurl }}/{{ child.url }}">{{ child.text }}</a>
+                    <a href="{% if child.internal %}{{ site.baseurl }}/{% endif %}{{ child.url }}">{{ child.text }}</a>
                   {% endif %}
                   </li>
                 {% endfor %}
