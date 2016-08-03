@@ -20,13 +20,13 @@ Once you and your supervisor mutually agree that it is or is not in 18F's best i
 
 If the decision is to renew, the Talent Team will process a Request for Personnel Action (RPA) to extend your term. Please note that you do not have to renew for the full two years; you could renew for less time (such as 1 year, 6 months, or 1 month). Your employment status and benefits will remain the same and no additional action is needed from you or your supervisor.
 
-At this point, the renewal process is completed by the Talent Team and GSA HR.
-   1. Supervisor approves the extension and submits an email to the Talent Team
-   2. Approved extensions are placed on a tracking list
-   3. Shawnique Muller sends the extension RPAs (RPAs are submitted and processed through CHRIS) in batches at the beginning of each month for all extensions happening the following month
+At this point, the renewal process is completed by the Talent Team and GSA HR.  
+   1. Supervisor approves the extension and submits an email to the Talent Team  
+   2. Approved extensions are placed on a tracking list  
+   3. Shawnique Muller sends the extension RPAs (RPAs are submitted and processed through CHRIS) in batches at the beginning of each month for all extensions happening the following month  
    4. HR reviews and confirms the RPA checking that all information is accurate (employee has another term left, correct extension dates, etc.)  
-     a. *Note: New Term beginning dates are the following day from the previous term end date excluding weekends. If it’s a weekend it will be the following Monday. New Term end dates will be the Friday if it falls on a weekend.*
-   5. HR sends the approved RPA to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed
+     a. *Note: New Term beginning dates are the following day from the previous term end date excluding weekends. If it’s a weekend it will be the following Monday. New Term end dates will be the Friday if it falls on a weekend.*  
+   5. HR sends the approved RPA to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed  
    6. CPC processes the RPA. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in CHRIS. They process RPAs based on action date, which is why you will not see the updates in CHRIS until the extension date.
 
 Please note that GSA and the systems do not process extensions ahead of time.
