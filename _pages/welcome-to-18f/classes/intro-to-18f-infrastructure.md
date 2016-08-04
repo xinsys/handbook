@@ -78,7 +78,7 @@ _You cannot spend a single penny, create the expectation that a penny will be sp
 Here are some things that you might have been used to doing outside of government that you cannot do now:
 
 1. You cannot use or deploy to whatever third party tool you want without asking in [#infrastructure](https://18f.slack.com/messages/infrastructure/)
-2. You are limited in the political activities you can do. [See our Hatch Act explainer](/hatch-act-foia-ethics-code-of-conduct)
+2. You are limited in the political activities you can do (see the Hatch Act).
 3. Ethics [rules](/hatch-act-foia-ethics-code-of-conduct) are in place for accepting gifts and payment. When in doubt, ask [#legalstuff](https://18f.slack.com/messages/legalstuff/).
 
 If you&rsquo;re an engineer of any kind, the most important part of your job in the government at the moment is **security.** If you&rsquo;re building anything, a good place to start is [18F&rsquo;s security standards](https://pages.18f.gov/before-you-ship/security/).

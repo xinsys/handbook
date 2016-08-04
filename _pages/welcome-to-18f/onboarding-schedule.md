@@ -16,7 +16,7 @@ In your first week, you’ll learn about: the most important legal and security 
 Note: The titles below are linked to our handbook pages for each subject. Description links offer a more detailed look at what you’ll learn in each session.
 
 ### Tuesday
-* [Hatch Act, FOIA, ethics, and Code of Conduct](/hatch-act-foia-ethics-code-of-conduct) ([Description](/classes/#ethics)), Joshua Bailes
+* Hatch Act, FOIA, Ethics, and Code of Conduct ([Description](/classes/#ethics)), Joshua Bailes
 * [Benefits 101](/benefits) ([Description](/classes/#benefits)), Cristina Brydges
 
 ### Wednesday

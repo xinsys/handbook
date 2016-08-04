@@ -101,9 +101,6 @@ navigation:
     - text: GSA tools and transit
       url: gsa-tools-equipment-and-transit/
       internal: true
-    - text: Hatch Act, FOIA, Ethics, Code of Conduct
-      url: hatch-act-foia-ethics-code-of-conduct/
-      internal: true
     - text: Infrastructure
       url: intro-to-18f-infrastructure/
       internal: true
