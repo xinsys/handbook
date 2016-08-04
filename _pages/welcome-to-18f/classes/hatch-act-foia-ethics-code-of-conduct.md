@@ -48,36 +48,11 @@ Please note that GSA&rsquo;s Office of General Counsel is your legal resource as
 
 ## <a id="hatch-act">Hatch Act</a>
 
-The Hatch Act limits certain political activities of 18F employees to ensure that federal programs are administered in a nonpartisan fashion. It further protects federal employees from political coercion in the workplace and ensures that federal employees are advanced based on merit and not based on political affiliation.​
+The Hatch Act is an essential law for you to understand. The purpose of the Act is to maintain a federal workforce that is free from partisan political influence or coercion. The Office of Special Counsel (OSC) maintains a [wealth of resources](http://www.oge.gov/Topics/Outside-Employment-and-Activities/Political-Activities/) on the Hatch Act, including: [this handy chart](https://osc.gov/Resources/HA%20Poster%20Lesser%20Restricted%202016.pdf) that summarizes what federal employees can and can&rsquo;t do, as well as [this collection](https://osc.gov/Pages/Hatch-Act-Social-Media-and-Email-Guidance.aspx) of frequently asked questions regarding the Hatch Act and social media. DigitalGov also has an hour-long YouTube video that outlines many [do&rsquo;s and don&rsquo;ts](https://www.youtube.com/watch?v=YVSOmrLMrjU&app=desktop) with regard to the Hatch Act.
 
-The Office of Special Counsel (OSC) maintains a [wealth of resources](http://www.oge.gov/Topics/Outside-Employment-and-Activities/Political-Activities/) on the Hatch Act, including: [this handy chart](https://osc.gov/Resources/HA%20Poster%20Lesser%20Restricted%202016.pdf) that summarizes what federal employees can and can&rsquo;t do, as well as [this collection](https://osc.gov/Pages/Hatch-Act-Social-Media-and-Email-Guidance.aspx) of frequently asked questions regarding the Hatch Act and social media. DigitalGov also has an hour-long YouTube video that outlines many [do&rsquo;s and don&rsquo;ts](https://www.youtube.com/watch?v=YVSOmrLMrjU&app=desktop) with regard to the Hatch Act.
+See the [OSC&rsquo;s Hatch Act Flyer](https://osc.gov/Resources/HA%20Pamphlet%20Sept%202014.pdf) and the [OSC Frequently Asked Questions Regarding Social Media and the Hatch Act](https://osc.gov/Pages/The-Hatch-Act-Frequently-Asked-Questions-on-Federal-Employees-and-the-Use-of-Social-Media-and-Email.aspx)
 
-Some highlights from the [OSC&rsquo;s Hatch Act Flyer](https://osc.gov/Resources/HA%20Pamphlet%20Sept%202014.pdf):
-
-- **You may not solicit, accept, or receive a donation or contribution for a partisan political party, candidate for partisan political office, or partisan political group.** For example: You may not host a political fundraiser, you may not invite others to a political fundraiser, and you may not collect contributions or sell tickets to political fundraising functions.
-
-- **You may not engage in political activity while on duty,** in any federal room or building, while wearing a uniform or official insignia, or using any federally owned or leased vehicle. Political activity is activity directed at the success or failure of a political party, candidate for partisan political office, or partisan political group.
-
-Some highlights from the [OSC Frequently Asked Questions Regarding Social Media and the Hatch Act](https://osc.gov/Pages/The-Hatch-Act-Frequently-Asked-Questions-on-Federal-Employees-and-the-Use-of-Social-Media-and-Email.aspx):
-
-**In general, all federal employees may use social media and email and comply with the Hatch Act if they remember the following guidelines:**
-
-- Do not engage in political activity while on duty or in the workplace. Federal employees are &ldquo;on duty&rdquo; when they are in a pay status, other than paid leave, or are representing the government in an official capacity. Federal employees are considered &ldquo;on duty&rdquo; during telecommuting hours.
-
-- Do not engage in political activity in an official capacity at any time.
-
-- Do not solicit or receive political contributions at any time.
-
-- Q: **May a federal employee engage in political activity on Facebook or Twitter?**
-
-A: Yes. Federal employees may express their opinions about a partisan group or candidate in a partisan race (e.g., post, &ldquo;like,&rdquo; &ldquo;share,&rdquo; &ldquo;tweet,&rdquo; &ldquo;retweet&rdquo;), but there are a few limitations. Specifically, the Hatch Act prohibits employees from: engaging in any political activity via Facebook or Twitter while on duty or in the workplace; referring to their official titles or positions while engaged in political activity at any time (note that inclusion of an employee’s official title or position on one’s social media profile, without more, is not an improper use of official authority); and suggesting or asking anyone to make political contributions at any time. Thus, they should neither provide links to the political contribution page of any partisan group or candidate in a partisan race nor &ldquo;like,&rdquo; &ldquo;share,&rdquo; or &ldquo;retweet&rdquo; a solicitation from one of those entities, including an invitation to a political fundraising event. An employee, however, may accept an invitation to a political fundraising event from such entities via Facebook or Twitter.
-
-- **Q. May a federal employee become a &ldquo;friend,&rdquo; &ldquo;like,&rdquo; or &ldquo;follow&rdquo; the social media page of a partisan group or candidate in a partisan race?**
-
-A: Yes, but not while on duty or in the workplace.
-
-Finally, please **ask before you act.** Again, 18F&rsquo;s point of contact at the GSA&rsquo;s Office of General Counsel (often called OGC) is [John Peters](mailto:john.h.peters@gsa.gov). Feel free to contact John directly with any Hatch Act-related questions. Note that **you can be reported** to the Inspector General or the Office of Special Counsel for Hatch Act violations &mdash; and Hatch Act penalties can be severe, including removal from employment.
-
+Please **ask before you act.** Again, 18F&rsquo;s point of contact at the GSA&rsquo;s Office of General Counsel (often called OGC) is [John Peters](mailto:john.h.peters@gsa.gov). Feel free to contact John directly with any Hatch Act-related questions. Note that **you can be reported** to the Inspector General or the Office of Special Counsel for Hatch Act violations &mdash; and Hatch Act penalties can be severe, including removal from employment.
 
 ## <a id="foia">FOIA</a>
 
