@@ -48,9 +48,14 @@ Please note that GSA&rsquo;s Office of General Counsel is your legal resource as
 
 ## <a id="hatch-act">Hatch Act</a>
 
-The Hatch Act is an essential law for you to understand. The purpose of the Act is to maintain a federal workforce that is free from partisan political influence or coercion. The Office of Special Counsel (OSC) maintains a [wealth of resources](http://www.oge.gov/Topics/Outside-Employment-and-Activities/Political-Activities/) on the Hatch Act, including: [this handy chart](https://osc.gov/Resources/HA%20Poster%20Lesser%20Restricted%202016.pdf) that summarizes what federal employees can and can&rsquo;t do, as well as [this collection](https://osc.gov/Pages/Hatch-Act-Social-Media-and-Email-Guidance.aspx) of frequently asked questions regarding the Hatch Act and social media. DigitalGov also has an hour-long YouTube video that outlines many [do&rsquo;s and don&rsquo;ts](https://www.youtube.com/watch?v=YVSOmrLMrjU&app=desktop) with regard to the Hatch Act.
+See the following links about the Hatch Act:
 
-See the [OSC&rsquo;s Hatch Act Flyer](https://osc.gov/Resources/HA%20Pamphlet%20Sept%202014.pdf) and the [OSC Frequently Asked Questions Regarding Social Media and the Hatch Act](https://osc.gov/Pages/The-Hatch-Act-Frequently-Asked-Questions-on-Federal-Employees-and-the-Use-of-Social-Media-and-Email.aspx)
+* [Political Activities](https://www.oge.gov/web/oge.nsf/Resources/Political+Activities)
+* [Permitted and Prohibited Activities for Most Federal Employees](https://osc.gov/Resources/HA%20Poster%20Lesser%20Restricted%202016.pdf)
+* [Hatch Act Social Media and Email Guidance](https://osc.gov/Pages/Hatch-Act-Social-Media-and-Email-Guidance.aspx)
+* [Hatch Act: Dos and Don'ts for Feds on Social Media](https://www.youtube.com/watch?v=YVSOmrLMrjU&app=desktop) (video)
+* [A Guide to the Hatch Act for Federal Employees](https://osc.gov/Resources/HA%20Pamphlet%20Sept%202014.pdf)
+* [The Hatch Act: Frequently Asked Questions on Federal Employees and the Use of Social Media and Email](https://osc.gov/Pages/The-Hatch-Act-Frequently-Asked-Questions-on-Federal-Employees-and-the-Use-of-Social-Media-and-Email.aspx)
 
 Please **ask before you act.** Again, 18F&rsquo;s point of contact at the GSA&rsquo;s Office of General Counsel (often called OGC) is [John Peters](mailto:john.h.peters@gsa.gov). Feel free to contact John directly with any Hatch Act-related questions. Note that **you can be reported** to the Inspector General or the Office of Special Counsel for Hatch Act violations &mdash; and Hatch Act penalties can be severe, including removal from employment.
 
