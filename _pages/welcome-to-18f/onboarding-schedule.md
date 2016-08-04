@@ -16,20 +16,20 @@ In your first week, you’ll learn about: the most important legal and security 
 Note: The titles below are linked to our handbook pages for each subject. Description links offer a more detailed look at what you’ll learn in each session.
 
 ### Tuesday
-* Hatch Act, FOIA, Ethics, and Code of Conduct ([Description](/classes/#ethics)), Joshua Bailes
-* [Benefits 101](/benefits) ([Description](/classes/#benefits)), Cristina Brydges
+* Hatch Act, FOIA, Ethics, and Code of Conduct ([Description](/classes/#ethics))
+* [Benefits 101](/benefits) ([Description](/classes/#benefits))
 
 ### Wednesday
-* [Introduction to the Infrastructure Team](/intro-to-18f-infrastructure) ([Description](/classes/#infrastructure-team)), Noah Kunin
-* Slack DM: [Introduction to the Ops Team](/ops/) ([Description](/classes/#ops-team)), Patrick Bateman
-* Email: [Introduction to the Talent Team](/talent) ([Description](/classes/#talent-team)), Jen Tress
-* [Equipment and useful government websites](/gsa-tools-equipment-and-transit) ([Description](/classes/#equipment)), Leah Gitter
+* [Introduction to the Infrastructure Team](/intro-to-18f-infrastructure) ([Description](/classes/#infrastructure-team))
+* Slack DM: [Introduction to the Ops Team](/ops/) ([Description](/classes/#ops-team))
+* Email: [Introduction to the Talent Team](/talent) ([Description](/classes/#talent-team))
+* [Equipment and useful government websites](/gsa-tools-equipment-and-transit) ([Description](/classes/#equipment))
 
 ### Thursday
-* [Introduction to GitHub and the 18F website](/github-and-18f-site) ([Description](/classes/#github-18F-site)), Greg Boone
+* [Introduction to GitHub and the 18F website](/github-and-18f-site) ([Description](/classes/#github-18F-site))
 
 ### Friday
-* [Time tracking and Tock](/tock) ([Description](/classes/#tock)), Victor Valdiviezo
+* [Time tracking and Tock](/tock) ([Description](/classes/#tock))
 
 
 ## Week 2
@@ -39,27 +39,27 @@ Note: The titles below are linked to our handbook pages for each subject. Descri
 In your second week, you’ll participate in unconscious bias training, learn how travel and recruitment work, and get an overview of how 18F came to exist. You’ll also meet with Aaron, 18F’s Executive Director.
 
 ### Wednesday
-* [Diversity and unconscious bias training](/intro-to-the-diversity-guild) ([Description](/classes/#diversity)), Members of #g-diversity
+* [Diversity and unconscious bias training](/intro-to-the-diversity-guild) ([Description](/classes/#diversity))
 
 ### Thursday
-* [Travel 101](/travel-101) ([Description](/classes/#travel)), Ethan Heppner
-* [Mission, culture, and history of 18F](/history-and-values) ([Description](/classes/#mission-culture-history)), Hillary Hartley
-* [Professional development, conferences, speaking opportunities, and IDPs](/professional-development-and-training) ([Description](/classes/#professional-development)), Pia Scott
+* [Travel 101](/travel-101) ([Description](/classes/#travel))
+* * [Mission, culture, and history of 18F](/history-and-values) ([Description](/classes/#mission-culture-history))
+* [Professional development, conferences, speaking opportunities, and IDPs](/professional-development-and-training) ([Description](/classes/#professional-development))
 
 ### Friday
-* [Welcome from Aaron](/welcome-from-aaron/) ([Description](/classes/#meet-aaron)), Aaron Snow
+* [Welcome from Aaron](/welcome-from-aaron/) ([Description](/classes/#meet-aaron))
 
 ## <a name="week-3"></a>Week 3
 Your third week of training is relatively short. You’ll learn about accessibility and the tools we use to run successful meetings (many of which you’ve probably seen by now).
 
 ### Monday
-* [Accessibility](/accessibility) ([Description](/classes/#accessibility)), Nick Bristow and Nick Brethauer
+* [Accessibility](/accessibility) ([Description](/classes/#accessibility))
 
 ### Tuesday
-* [Introduction to Engineering](/engineering/) ([Description](/classes/#engineering-team)), Holly Allen
+* [Introduction to Engineering](/engineering/) ([Description](/classes/#engineering-team))
 
 ### Thursday
-* [Meetings and meeting tools](/meetings-and-meeting-tools) ([Description](/classes/#meetings)), Andrew Maier
+* [Meetings and meeting tools](/meetings-and-meeting-tools) ([Description](/classes/#meetings))
 
 ## <a name="week-4"></a>Week 4
 In your fourth week, you’ll learn about writing for the 18F blog and participating in our internal working groups, guilds, and grouplets. You’ll also learn about 18F consulting and you’ll take a tour of some of our products.
@@ -68,28 +68,28 @@ In your fourth week, you’ll learn about writing for the 18F blog and participa
 _No classes are scheduled for this day_
 
 ### Tuesday
-* [Introduction to Outreach and the blog](/outreach) ([Description](/classes/#blog)), Andre Francisco
-* [Working groups and guilds](/working-groups-and-guilds-101) ([Description](/classes/#groups-guilds-guides)), Emileigh Barnes and Carlo Costino
+* [Introduction to Outreach and the blog](/outreach) ([Description](/classes/#blog))
+* [Working groups and guilds](/working-groups-and-guilds-101) ([Description](/classes/#groups-guilds-guides))
 
 ### Wednesday
-* [Introduction to the Consulting Team](/consulting) ([Description](/classes/#consulting-team)), Dave Zvenyach
+* [Introduction to the Consulting Team](/consulting) ([Description](/classes/#consulting-team))
 
 ### Friday
-* Front-end guild, Midas, and Federalist ([Description](/classes/#18f-products)), Jeremia Kimelman
+* Front-end guild, Midas, and Federalist ([Description](/classes/#18f-products))
 
 ## <a name="week-5"></a>Week 5
 This will be your last week of training (though you’re always welcome to come back and sit in these sessions again). This week, you’ll meet more teams and learn about the Writing Lab.
 
 ### Monday
 * [Introduction to the Design Team](/design) ([Description](/classes/#design-team))
-* [Introduction to the Writing Lab](/intro-to-writing-lab) ([Description](/classes/#writing-labs)), Kate Garklavs and Emileigh Barnes
-* [Objectives and key results (OKRs)](/objectives-key-results/) ([Description](/classes/#OKRs)), Colin MacArthur, Nick Brethauer, Michelle Hertzfeld
+* [Introduction to the Writing Lab](/intro-to-writing-lab) ([Description](/classes/#writing-labs))
+* [Objectives and key results (OKRs)](/objectives-key-results/) ([Description](/classes/#OKRs))
 
 ### Wednesday
-* [Social media 101](/slack) ([Description](/classes/#social-media)), Melody Kramer
+* [Social media 101](/slack) ([Description](/classes/#social-media))
 
 ### Friday
-* [Introduction to the Product Team and open source software](/intro-to-product-and-open-source) ([Description](/classes/#product-team)), Gray Brooks
+* [Introduction to the Product Team and open source software](/intro-to-product-and-open-source) ([Description](/classes/#product-team))
 
 ---
 
