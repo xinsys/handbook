@@ -46,19 +46,6 @@ Note that the office does not accept physically signed, scanned copies so you mu
 
 Please note that GSA&rsquo;s Office of General Counsel is your legal resource as a GSA employee. _Nothing in this document should be considered legal advice._ If you have questions, please reach out to the 18F-OGC point of contact, [John Peters](mailto:john.h.peters@gsa.gov); he can provide you with the answers you need.
 
-## <a id="hatch-act">Hatch Act</a>
-
-See the following links about the Hatch Act:
-
-* [Political Activities](https://www.oge.gov/web/oge.nsf/Resources/Political+Activities)
-* [Permitted and Prohibited Activities for Most Federal Employees](https://osc.gov/Resources/HA%20Poster%20Lesser%20Restricted%202016.pdf)
-* [Hatch Act Social Media and Email Guidance](https://osc.gov/Pages/Hatch-Act-Social-Media-and-Email-Guidance.aspx)
-* [Hatch Act: Dos and Don'ts for Feds on Social Media](https://www.youtube.com/watch?v=YVSOmrLMrjU&app=desktop) (video)
-* [A Guide to the Hatch Act for Federal Employees](https://osc.gov/Resources/HA%20Pamphlet%20Sept%202014.pdf)
-* [The Hatch Act: Frequently Asked Questions on Federal Employees and the Use of Social Media and Email](https://osc.gov/Pages/The-Hatch-Act-Frequently-Asked-Questions-on-Federal-Employees-and-the-Use-of-Social-Media-and-Email.aspx)
-
-Please **ask before you act.** Again, 18F&rsquo;s point of contact at the GSA&rsquo;s Office of General Counsel (often called OGC) is [John Peters](mailto:john.h.peters@gsa.gov). Feel free to contact John directly with any Hatch Act-related questions. Note that **you can be reported** to the Inspector General or the Office of Special Counsel for Hatch Act violations &mdash; and Hatch Act penalties can be severe, including removal from employment.
-
 ## <a id="foia">FOIA</a>
 
 FOIA is short for the Freedom of Information Act. In sum, any citizen can request information from the U.S. Government and get it, with some exceptions. As a consequence **federal employees shouldn&rsquo;t have an expectation of privacy when using government property or technology.**
