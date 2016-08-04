@@ -81,7 +81,7 @@ _No classes are scheduled for this day_
 This will be your last week of training (though you’re always welcome to come back and sit in these sessions again). This week, you’ll meet more teams and learn about the Writing Lab.
 
 ### Monday
-* [Introduction to the Design Team](/design) ([Description](/classes/#design-team)), Russ Unger
+* [Introduction to the Design Team](/design) ([Description](/classes/#design-team))
 * [Introduction to the Writing Lab](/intro-to-writing-lab) ([Description](/classes/#writing-labs)), Kate Garklavs and Emileigh Barnes
 * [Objectives and key results (OKRs)](/objectives-key-results/) ([Description](/classes/#OKRs)), Colin MacArthur, Nick Brethauer, Michelle Hertzfeld
 
