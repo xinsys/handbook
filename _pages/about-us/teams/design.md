@@ -88,7 +88,6 @@ Design leads are selected through nominations and interviews according to team n
 
 ### <a id="leads-and-management">Leads and management</a>
 
-- Russ Unger — Director
 - Jeremy Canfield — UX Lead
 - Liz Goodman — UX Lead
 - Brad Nunnally — UX Lead
