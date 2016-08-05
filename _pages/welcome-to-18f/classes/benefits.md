@@ -92,7 +92,7 @@ Please use [ALOHA](/gsa-tools-equipment-and-transit/#aloha) to request sick leav
 
 ### Annual leave
 
-An employee may use annual leave for vacations, rest, and relaxation, and personal business or emergencies. Annual leave accrues based on how long you&rsquo;ve worked for the government:
+An employee may use annual leave for vacations, rest and relaxation, and personal business or emergencies. Annual leave accrues based on how long you&rsquo;ve worked for the government:
 
 * Fewer than three years: four hours per pay period
 * Between three and 15 years: six hours per pay period
