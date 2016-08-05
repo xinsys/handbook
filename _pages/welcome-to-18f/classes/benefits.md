@@ -154,7 +154,7 @@ If you ever move, you can update your address for TSP by emailing it to both the
 
 To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing 1-877-968-3778. Be sure to have your TSP account number and your SSN and mailing address handy.
 
-One note: If you have been contributing to 401k, 403b or anything alike at your previous employer, your total contribution for all similar plans can not be higher than the annual limit of ~$18K. Someone thought that the limit is on individual plan. It is actually on the [person for all plan alike](https://www.tsp.gov/PDF/formspubs/oc91-13.pdf).
+Note: If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than the annual limit of $18,000. The limit is not $18,000 per plan, but [$18,000 in aggregate](https://www.tsp.gov/PDF/formspubs/oc91-13.pdf).
 
 
 ## Training
