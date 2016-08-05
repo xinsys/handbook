@@ -1,5 +1,5 @@
 ---
-title: GSA's Employee Assistance Program (EAP)
+title: Employee Assistance Program (EAP)
 ---
 
 EAPs offer cost-free, **confidential** employee counseling, and referral to community treatment and/or professional service, as appropriate.
