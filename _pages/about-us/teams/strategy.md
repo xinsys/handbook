@@ -10,10 +10,6 @@ Everyone at 18F is a strategist. It’s in our motto: delivery is the strategy. 
 
 Our partners face a range of challenges that hamper their ability to serve the public. In response, we counsel stakeholders across a given organization, helping them hone their vision, examine their culture, discover new talent, and experiment with novel solutions. We coordinate across each agency to ensure their teams, services, and policies are aligned for success. In short, we create the space for new products and practices to thrive.
 
-### Communication
-
-If you have any questions, you can find us on Slack in [#strategy](https://18f.slack.com/messages/strategy).
-
 ---
 
 ## How we can help
@@ -35,33 +31,3 @@ Every project faces financial, bureaucratic, and organizational obstacles. As St
 ## About Us
 
 The folks on our team hail from varied backgrounds — law, engineering, visual design, user experience, service design, systems thinking, data science, acquisitions, policy, DevOps, research, facilitation, and product management among them. While we’re not united by a common skillset, we all share a deep passion for solving the complex, systemic challenges that prevent our partner agencies from reaching their goals.  
-
-### Structure
-
-As per [the org chart](/org-chart), 18F Strategy is itself composed of smaller sub-eams, each served by a **team lead** to help coordinate and advocate. While most strategists at 18F work in cross-functional _project_ teams, the team-led teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team.
-
-Currently, we are structured as follows:
-    * Gail Swanson - Chapter Leadership
-
-    * Angela Colter
-        - Jesse Taggert
-        - Lane Becker
-        - Michael Cata
-        - Tom Black
-
-    * Alex Pandel
-        - Ed Mullen
-        - Jeremy Zilar
-        - Michael Hsu
-        - Nikki Lee
-
-    * Cyd Harrell
-        - Adrian Webb
-        - Kane Baccigalupi
-        - Jay Huie
-        - Zac Cohn
-
-    * Nikki Zeichner
-        - Brandon Kirby
-        - Timothy B Jones
-        - Robert Sosinski
