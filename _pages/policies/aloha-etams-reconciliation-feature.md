@@ -18,7 +18,7 @@ This [video](https://vimeo.com/gsavisualcommunications/review/165452479/3f077f86
 
 When you log into ALOHA, you will see this notification.
 
-![aloha-etams-reconciliation-feature-warning](https://github.com/18F/handbook/blob/master/images/aloha-etams-warning.png)
+![aloha-etams-reconciliation-feature-warning](https://raw.githubusercontent.com/18F/handbook/master/images/aloha-etams-warning.png)
 
 Also, your timekeeper will be pulling leave reports on a monthly basis and notifying employees of their variances.
 
