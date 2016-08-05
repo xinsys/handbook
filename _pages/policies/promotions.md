@@ -2,17 +2,18 @@
 title: Promotions
 ---
 
-###General Schedule grade level increase process
+## General Schedule grade level increase process
 
-**Career Staff**
+### Career Staff
 
 Please see GSA Insite for the [merit promotion process](https://insite.gsa.gov/portal/mediaId/524673/fileName/SOP_MP_Eligibles_and_Consideration.action).
 
-**Excepted Service Staff**
+### Excepted Service Staff
 
 To be eligible for a promotion at 18F, you must have at least one year in the current grade (it is not possible to jump two General Schedule (GS) levels) and have received consistently high performance ratings (4 or 5).
 
-Process:  
+### Process
+
    1. Supervisor reviews the higher position description (PD) and provides a justification for the promotion showing how the employee is performing at the higher level  
       a. The justification can be anywhere from 2-5 paragraphs and the content should align with the position description ([18F current list of PDs](https://docs.google.com/spreadsheets/d/1VfngE9xfmBnSmMwoyVp7VhHk1n2mr1AF3KzK12Tlb5o/edit#gid=0))  
       b. [Sample justifications](https://docs.google.com/document/d/1H15tYABQzr79lnQPFIKN9jj7iGXjmQ1_mkvHh30_3q4/edit)  
@@ -31,9 +32,9 @@ Under “Position” you’ll see something like the following: Innovation Speci
 Your PD number is the bolded part: Innovation Specialist.GS19.**00CX489**.034.019454.C
 
 
-###General Schedule step increase process
+## General Schedule step increase process
 
-**Rate of step increases**
+#### Rate of step increases
 
 Steps 1-4:  Annually  
 Steps 5-7:  Every 2 years  
@@ -54,16 +55,9 @@ The following employee is eligible for a Within Grade Increase on the date indic
 Please contact me immediately if you are planning to deny an employee’s increase. Employees are required to receive written notification of the denial at least 60 days prior to the within grade due date.
   
 If we do not hear from you at least 60 days prior to the within grade due date, we will presume that you are agreeable to the increase.
+
+#### Still have questions?
   
-If you have any questions, please do not hesitate to contact me.
-  
-Leila Knight  
-Employee Relations Specialist  
-Office of HR Strategy and Services  
-Office of Human Resources (HR) Srvs  
-Human Resources (HR) Center D  
-Employee Relations Branch -CSSDC  
-U.S. General Services Administration  
-Office: (202) 969-7079  
-Mobile: (202) 805-4922  
-Fax:  (202) 708-5377  
+Contact: [Leila Knight](mailto:leila.knight@gsa.gov)
+* Office: (202) 969-7079  
+* Mobile: (202) 805-4922
