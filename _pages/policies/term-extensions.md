@@ -37,9 +37,8 @@ We realize not seeing the extension in the system until the date it happens is n
 
 If the decision is not to renew, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving 18F](/leaving-18f) for more details.
 
---------------------------------------------------------------------------------
+---
 
 ### Still have questions?
 
-Please contact [Cristina Brydges](https://18f.slack.com/team/cristina) regarding the policy.  
-Please contact [Shawnique Muller](https://18f.slack.com/team/shawnique) regarding processing.
+Please contact [Cristina Brydges](https://18f.slack.com/team/cristina) regarding the policy and [Shawnique Muller](https://18f.slack.com/team/shawnique) regarding processing.
