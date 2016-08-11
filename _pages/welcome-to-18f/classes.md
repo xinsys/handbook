@@ -111,13 +111,6 @@ The talent team helps candidates navigate the government hiring process and then
 **When:** Every other Wednesday ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)), email from Talent.
 **Tags:** [#talent](https://18f.slack.com/messages/talent)
 
-### <a id="consulting-team" href="/consulting">Introduction to the Consulting Team</a>
-
-What does 18F Consulting do? Come away with a clear understanding of who works on 18F consulting and what projects they take on.
-
-**When:** Second Wednesday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
-**Tags:** [#18f-consulting](https://18f.slack.com/messages/18f-consulting)
-
 ### <a id="social-media" href="/social-media/">Social media 101</a>
 
 Wondering where 18F is on social media, and ways you can talk about your job publicly?
