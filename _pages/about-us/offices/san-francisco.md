@@ -120,6 +120,17 @@ Once you’re there, turn right after entering past security, then the MSO offic
 
 GSA onboarding is typically conducted on Mondays at 50 UN Plaza. 18F SF onboarding takes place after GSA orientation at our office suite. You should receive an email confirming the times that you will meet with your team.
 
+### Find out everything I need to know about working in SF?
+
+Whether you're new at 18F and are joining the SF office or you're a long-time 18F member relocating to SF, here's an office onboarding checklist for you:
+
+* Add yourself to our [desk schedule spreadsheet](https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=0).
+* Add yourself to our [cleaning crew schedule](https://docs.google.com/document/d/1CCKYxIRrCUDJpykKgrjDBISLG-2toMv9yu1hLfR2IOs/edit).
+* If you'd like to have a locker, ask Victor for a [locker assignment](https://docs.google.com/document/d/1nVrLNGME72dnS-vaGV9DofF-UG9pC8sP6Lea2x0EOnU/edit).
+* Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
+* Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
+* If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), you can [sign up here](https://public.govdelivery.com/accounts/USGSAIN/subscriber/new?preferences=true).
+
 ### Bring in guests?
 
 Meet your guests at the front security desk to escort them in.
@@ -232,7 +243,7 @@ The interior courtyard has Wi-Fi access so you can work outside!
 
 All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. To receive a transit subsidy, fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174). See more details [on InSite](https://insite.gsa.gov/portal/category/511801). Once your supervisor has signed the form, send it to [Lyvette Jones](mailto:lyvette.jones@gsa.gov) and cc [Victor Valdiviezo](mailto:victor.valdiviezo@gsa.gov).
 
-You will get a debit card (called a “Transerve card”) which you use to load your Clipper card each month.
+You will get a debit card (called a “Transerv card”) which you use to load your Clipper card each month.
 
 ### Health center
 
