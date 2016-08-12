@@ -59,7 +59,7 @@ The Writing Lab at 18F can help you with any of your communications needs. Givin
 
 ## <a id="tuesdays">Tuesdays</a>
 
-### Hatch Act, FOIA, Ethics, and Code of Conduct
+### <a id="ethics">Hatch Act, FOIA, Ethics, and Code of Conduct</a>
 
 The #legalstuff team will go over what you can and cannot do as a federal employee, including what you can and can’t do on social media. Learn about what information can be acquired through the Freedom of Information Act (FOIA) and how the 18F Code of Conduct frames the work we do online and off.
 
