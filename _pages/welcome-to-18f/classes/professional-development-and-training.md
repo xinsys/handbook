@@ -28,44 +28,54 @@ All General Services Administration (GSA) employees are required to take mandato
   <thead>
     <tr>
       <td><strong>Course</strong></td>
+      <td><strong>Where</strong></td>
       <td><strong>Duration</strong></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Concur Training (must take to travel)</td>
+      <td>Slack: #18F-classes</td>
       <td>30 minutes</td>
     </tr>
     <tr>
       <td>No Fear Act</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>30 minutes</td>
     </tr>
     <tr>
       <td>IT Security Awareness and Privacy 101</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>90 minutes</td>
     </tr>
     <tr>
       <td>Sharing In a Collaborative Environment</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>30 minutes</td>
     </tr>
     <tr>
       <td>Employee Accountability for Personal Property</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>30 minutes</td>
     </tr>
     <tr>
       <td>Attending a Conference</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>45 minutes</td>
     </tr>
     <tr>
       <td>Telework Works (must be completed before you <a href="/leave-telework-and-virtual-worker#how-do-i-get-an-approved-telework-agreement">submit your telework agreement</a>)</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>120 minutes</td>
     </tr>
     <tr>
       <td>Ethics Training</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>120 minutes</td>
     </tr>
     <tr>
       <td>What is Records Management</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>30 minutes</td>
     </tr>
   </tbody>
