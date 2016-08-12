@@ -70,19 +70,7 @@ Engineering also has five functional leads: backend, frontend, devops, security,
 
 ### Leadership and facilitators
 
-- Holly Allen — Engineering Director
-- Theresa Summa — Facilitator - Cronus 1
-- Sasha Magee — Facilitator - Spaceball 1
-- Justin Grevich — Facilitator - Chumanjalaal
-- Aidan Feldman — Facilitator - Voyager 1
-- Micah Saul — Facilitator - Pleiades
-- Annalee Flower Horne - Facilitator - Bellatrix
-- Carlo Costino - Facilitator - Apollo
-- Marco Segreto — Frontend Lead
-- CM Lubinski — Backend Lead
-- Jacob Kaplan-Moss - Security Lead
-- James Scott - Diversity Lead
-- Adam Kendall - DevOps Lead
+See [the org chart](/org-chart).
 
 ## FAQ
 

@@ -79,7 +79,7 @@ Here are some things that you might have been used to doing outside of governmen
 
 1. You cannot use or deploy to whatever third party tool you want without asking in [#infrastructure](https://18f.slack.com/messages/infrastructure/)
 2. You are limited in the political activities you can do (see the Hatch Act).
-3. Ethics [rules](/hatch-act-foia-ethics-code-of-conduct) are in place for accepting gifts and payment. When in doubt, ask [#legalstuff](https://18f.slack.com/messages/legalstuff/).
+3. Ethics rules are in place for accepting gifts and payment. When in doubt, ask [#legalstuff](https://18f.slack.com/messages/legalstuff/).
 
 If you&rsquo;re an engineer of any kind, the most important part of your job in the government at the moment is **security.** If you&rsquo;re building anything, a good place to start is [18F&rsquo;s security standards](https://pages.18f.gov/before-you-ship/security/).
 
@@ -119,7 +119,7 @@ If that&rsquo;s the canonical and only source of that information, yes. If that 
 Team Ops focuses on what would normally be considered the &ldquo;back office:&rdquo; financial matters, procurement, and space operations. Infrastructure focuses on our digital infrastructure and development methodologies. All operations teams work very closely together and there many areas we have joint ownership. Don&rsquo;t worry about the specifics; we&rsquo;re always happy to direct you in the right direction.
 
 
-### How does this all overlap with things related to our [Ethics and Legal training](/hatch-act-foia-ethics-code-of-conduct/)?
+### How does this all overlap with things related to our Ethics and Legal training?
 
 There&rsquo;s no one answer here. It&rsquo;s a complicated Venn diagram. One easy way to think about it is that GSA&rsquo;s legal team focuses on what you **as a person** can and cannot do. 18FI is more concerned about the behavior of **systems we use or build.**
 

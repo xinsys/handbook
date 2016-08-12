@@ -88,17 +88,7 @@ Design leads are selected through nominations and interviews according to team n
 
 ### <a id="leads-and-management">Leads and management</a>
 
-- Jeremy Canfield — UX Lead
-- Liz Goodman — UX Lead
-- Brad Nunnally — UX Lead
-- Corey Mahoney - UX Lead
-- Eric Ronne — Visual Design Lead
-- Amber Reed — Visual Design Lead
-- Shawn Allen — Frontend Lead
-- Julia Elman — Frontend Lead
-- Emileigh Barnes — Content Lead
-- Jeannine Hunter — Content Lead
-- James Hupp — Content Lead
+See [the org chart](/org-chart).
 
 ## <a id="what-we-do">What we do</a>
 
@@ -139,25 +129,25 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Drawing lines on a screen
 
-- **Creative Cloud:** Use it for all things drawing-related. Contact the Director of Design on Slack for a license. CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **InVision:** Use it for prototyping. For a license, email <mailto:18fsoftware@gsa.gov>.
-- **OmniGraffle:** Use it for all things drawing-related. For a license, email <mailto:18fsoftware@gsa.gov>. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **Sketch:** Use it for all things drawing-related. For a license, email <mailto:18fsoftware@gsa.gov>. You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
-- **Screenhero:** Use Screenhero for remote editing of the same desktop document. Slack just acquired Screenhero, so you can access it through the [Slack website](https://18f.slack.com/screenhero).
+- **Creative Cloud:** Contact the Director of Design on Slack for a license. CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
+- **InVision:** For prototyping. For a license, email <mailto:18fsoftware@gsa.gov>.
+- **OmniGraffle:** For a license, email <mailto:18fsoftware@gsa.gov>. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
+- **Sketch:** For a license, email <mailto:18fsoftware@gsa.gov>. You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
+- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://18f.slack.com/screenhero).
 
 #### Project management
 
-- **Trello:** Use it for project management. Get more information on the [How to use Trello](/trello) page. Access is immediate.
+- **Trello:** Get more information on the [How to use Trello](/trello) page. Access is immediate.
 
 #### Research
 
-- **Ethnio:** Use it for online research recruiting. Contact [Jeremy Canfield](https://18f.slack.com/messages/@jeremy) or [Liz Goodman](https://18f.slack.com/messages/@egoodman) for immediate access, and be sure to read our [Getting Started with Ethnio](https://docs.google.com/a/gsa.gov/document/d/14YwXV9BoY4EUEGc7kMITFQ-9tFjBipTaj7dsGFIJnNc/edit?usp=sharing) guide.
-- **Google Analytics:** Use it for analytics. More info [here](/google-analytics).
+- **Ethnio:** Online research recruiting. Contact [Jeremy Canfield](https://18f.slack.com/messages/@jeremy) or [Liz Goodman](https://18f.slack.com/messages/@egoodman) for immediate access, and be sure to read our [Getting Started with Ethnio](https://docs.google.com/a/gsa.gov/document/d/14YwXV9BoY4EUEGc7kMITFQ-9tFjBipTaj7dsGFIJnNc/edit?usp=sharing) guide.
+- **Google Analytics:** More info [here](/google-analytics).
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://18f.slack.com/messages/research) for recommendations.
 
 #### Workshops
 
-- **Mural.ly:** Use it for research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you’ll need to get permission from an admin to create rooms.
+- **Mural.ly:** Research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you’ll need to get permission from an admin to create rooms.
 
 #### Word processing
 

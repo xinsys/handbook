@@ -60,6 +60,7 @@ Build OKRs into meeting agendas: Use group OKRs as the basis for meeting agendas
 
 ## Resources
 If you'd like to read more about OKRs, these are some articles and books our team has found helpful:
+
 * [The Executioner’s Tale](http://interaction14.ixda.org/program/friday/293-the-executioner-s-tale), Christina Wodtke
 * Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results, Christina Wodtke (book)
 * [How Google Sets Goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.shdtla9cz), Rick Klau
