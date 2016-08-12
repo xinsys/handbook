@@ -12,7 +12,7 @@ The Director of Infrastructure, Noah Kunin, goes into more depth in [his class](
 2. Either everyone in the public can participate, or no one can. You alone cannot decide why Person A has access to something but not Person B.
 3. You cannot spend a single penny, create the expectation that a penny will be spent, or cause a penny to be spent, unless Congress has appropriated the funds.
 
-18F Infrastructure’s work is closely related to your [Ethics and Legal training](/hatch-act-foia-ethics-code-of-conduct). The difference is that the Infrastructure team is mainly concerned about the behavior of systems we use or build, while that ethics/legal training (and the broader GSA legal team) focuses on what you as a person can and cannot do.
+18F Infrastructure’s work is closely related to your Ethics and Legal training. The difference is that the Infrastructure team is mainly concerned about the behavior of systems we use or build, while that ethics/legal training (and the broader GSA legal team) focuses on what you as a person can and cannot do.
 
 If you have any questions, you can find us on Slack in [#infrastructure](https://18f.slack.com/messages/infrastructure/), [#pra](https://18f.slack.com/messages/pra/), and [#research](https://18f.slack.com/messages/research/).
 
@@ -30,14 +30,13 @@ If you are technical, you may also want to take a look at the [Engineering onboa
 
 ### <a id="leads-and-management">Leads and management</a>
 
-* Noah Kunin
-* Diego Lapiduz
+See [the org chart](/org-chart).
 
 ## <a id="what-we-do">What we do</a>
 
 The Infrastructure team provides guidance and support for the entire lifecycle of product development at 18F.
 
-* **Platform as a Service.** Cloud.gov helps 18F quickly and easily develop projects and designs on a full-featured self-service platform.
+* **Platform as a Service.** cloud.gov helps 18F quickly and easily develop projects and designs on a full-featured self-service platform.
 * **Security & Compliance.** See the [Compliance Toolkit](https://github.com/18F/compliance-toolkit).
 * **Infrastructure as a Service.** Provide a straightforward option for customer agencies to buy Amazon Web Services as part of an IAA with 18F. 
 * **Production Support.**
