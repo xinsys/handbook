@@ -52,6 +52,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
   * Entertainment and other non-work related expenses
   * Tips for porters, etc.
   * Incidentals, forgotten items, etc.
+
   The above expenses are accounted for in your M&IE per diem rate, which you’ll receive as a flat sum after you submit a voucher for reimbursement. You can look this up this nightly allowance [here](http://www.gsa.gov/portal/category/100120), on the same page as where you looked up the government maximum hotel rate.
 
 9. After you return, **create a voucher for reimbursement**:
