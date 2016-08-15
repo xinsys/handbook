@@ -22,7 +22,6 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 [_Having trouble?_](#having-trouble)
 
 3. **Wait for a reply to your email.**
-
    You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
 
 4. Send Employee ID to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) with:
