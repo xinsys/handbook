@@ -8,15 +8,16 @@ title: Get set up for travel for 18F as a new employee
 
 If you're traveling for 18F during your first two weeks (normally for orientation, if you're based in a city that doesn't have an 18F office), you'll get your travel arranged for you by 18F's travel team. Here's what you need to do to get set up for that:
 
-1. First thing that you’ll need to get is a “travel vendor ID”. You can do this by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing). 
+1. First thing that you’ll need to **get is a “travel vendor ID”**. You can do this by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing). 
 
-_Yes, you probably already did it at orientation, so this seems repetitive. However, there is a good reason for it. [Click here to find out why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh)._
+ _Yes, you probably already did it at orientation, so this seems repetitive. However, there is a good reason for it. [Click here to find out why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh)._
 
-2.  [Attach your completed EFT form to this pre-poulated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
+2.  **Attach your completed EFT form** to [this pre-poulated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
 [_Having trouble?_](#having-trouble)
 
-3. Wait for a reply to this email.
-You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
+3. **Wait for a reply to your email.**
+
+ You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
 
 4. Send Employee ID to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) with:
   * **Full Name** as it appears on ID, as per TSA requirements.
