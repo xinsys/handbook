@@ -20,7 +20,7 @@ You’ll get a number like **E000xxxxx** in the reply, which is important for th
 
 7. Send Employee ID to [ethan.heppner@gsa.gov](mailto:ethan.heppner@gsa.gov) with your proposed dates of travel, a phone number, and date of birth **from your personal email** [here’s why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh) to be set up as an “invitational traveler” temporarily. **Stop here for now.**
 
-**For Later** Ethan will make all of your travel arrangements until you can complete the training in OLU and then sign the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing).
+**For Later** A member of the 18F travel team will make all of your travel arrangements until you can complete the training in OLU and then sign the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing).
 
 6. Traveling in less than 2 weeks?
 
