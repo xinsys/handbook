@@ -19,25 +19,46 @@ _Yes, you probably already did it at orientation, so this seems repetitive. Howe
 You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
 
 4. Send Employee ID to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) with:
-  * Full Name as it appears on ID, as per TSA requirements.
-  * Date of birth, also for TSA requirements.
-  * Personal email, for account setup until you take the IT Security Awareness Training.
-  * Phone Number, for airline requirements and to facilitate booking
-  * Origin and Destination Airports, for obvious reasons
-  * Approved Dates of Travel, including approximate times if possible
+  * **Full Name** as it appears on ID, as per TSA requirements.
+  * **Date of birth**, also for TSA requirements.
+  * **Personal email**, for account setup until you take the IT Security Awareness Training.
+  * **Phone Number**, for airline requirements and to facilitate booking
+  * **Origin and Destination Airports**, for obvious reasons
+  * **Approved Dates of Travel**, including approximate times if possible
 
-5. *Confirm travel*: Once you’ve sent in all of your information, one of the members of the 18F travel team will reach out to you by phone about potential travel options.
+5. **Confirm travel**: Once you’ve sent in all of your information, one of the members of the 18F travel team will reach out to you by phone about potential travel options.
 
-6. *Get tickets*: E-tickets will be sent to the email address that you provided. Once a reservation is made, you will get a “pending” itinerary, which will be finalized, depending on the airline, no later than 72 hours before departure.
+6. **Get tickets**: E-tickets will be sent to the email address that you provided. Once a reservation is made, you will get a “pending” itinerary, which will be finalized, depending on the airline, no later than 72 hours before departure.
 
-7. *Book hotels* Until you can get a GSA travel card (read more about this [here](https://handbook.18f.gov/first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses upfront. But with a valid receipt, you will get reimbursed! Just make sure to stay at a place with rates under the government maximum (also known as per diem). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
+7. **Book hotels** Until you can get a GSA travel card (read more about this [here](https://handbook.18f.gov/first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses upfront. But with a valid receipt, you will get reimbursed! Just make sure to stay at a place with rates under the government maximum (also known as per diem). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
 
 The recommended resource for booking hotels as a Federal government employee is [Fedrooms.com].
 
 You may, however, choose to book a hotel directly or through an alternative service if those alternatives are “advantageous to the government” -- meaning either less expensive or closer to your work site(s) than the options available on Fedrooms. Whatever option you choose, however, must be "fire safe" and fully refundable up to 24 hours before departure.
 
+8. **Travel!** And keep receipts
 
-**For Later** A member of the 18F travel team will make all of your travel arrangements until you can complete the training in OLU and then sign the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing).
+You _will_ need receipts for the following types of expenses
+ * Hotels
+ * Taxis + tips paid to drivers (limited to origins and destinations involving workplaces, residences/hotels, and airports/transit stations)
+ * Public transit tickets/pass
+ * Baggage fees
+ * Parking at the airport
+ * Any other expense related to getting you from your residence or hotel to your worksite(s) and back.
+
+You _don’t_ need receipts for the following:
+ * Food and beverages
+ * Entertainment and other non-work related expenses
+ * Tips for porters, etc.
+ * Incidentals, forgotten items, etc.
+
+The above expenses are accounted for in your M&IE per diem rate, which you’ll receive as a flat sum after you submit a voucher for reimbursement. You can look this up this nightly allowance [here](http://www.gsa.gov/portal/category/100120), on the same page as where you looked up the government maximum hotel rate.
+
+9. After you return, **create a voucher for reimbursement**:
+
+You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in OLU, you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
+
+Once you get access, you can follow [these instructions for how to complete a voucher](https://handbook.18f.gov/travel-guide-5-reimbursement/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
 
 
 ### Having Trouble?
