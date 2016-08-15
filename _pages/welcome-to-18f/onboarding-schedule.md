@@ -72,7 +72,6 @@ _No classes are scheduled for this day_
 * [Working groups and guilds](/working-groups-and-guilds-101) ([Description](/classes/#groups-guilds-guides))
 
 ### Wednesday
-<<<<<<< HEAD
 _No classes are scheduled for this day_
 
 ### Friday
