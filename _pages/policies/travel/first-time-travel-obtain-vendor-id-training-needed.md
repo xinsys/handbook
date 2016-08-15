@@ -8,14 +8,14 @@ title: Get set up for travel for 18F as a new employee
 
 If you're traveling for 18F during your first two weeks (normally for orientation, if you're based in a city that doesn't have an 18F office), you'll get your travel arranged for you by 18F's travel team. Here's what you need to do to get set up for that:
 
-1. First thing that you’ll need to get is a **“travel vendor ID”**. You can do this by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing). 
+1. First thing that you’ll need to get is a **“travel vendor ID”**. You can do this by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing).
 
-   _Note if you haven't started and don't have your GSA email address yet_: 
-  
+   _Note if you haven't started and don't have your GSA email address yet_:
+
    Your access to the EFT form linked above may be resticted, so you should have received it as an attachment in your welcome email-- feel free to reach out to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) if you never got it.
 
-   _Note if you have started and do have your GSA email address_: 
-  
+   _Note if you have started and do have your GSA email address_:
+
    Yes, you probably already filled out the EFT form at orientation, so this seems repetitive. However, there is a good reason for it. [Click here to find out why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh).
 
 2.  **Attach your completed EFT form** to [this pre-poulated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
@@ -45,25 +45,27 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 8. **Travel!** And keep receipts
 
    You _will_ need receipts for the following types of expenses
+
       * Hotels
-      
+
       * Taxis + tips paid to drivers (limited to origins and destinations involving workplaces, residences/hotels, and airports/transit stations)
-      
+
       * Public transit tickets/pass
-      
+
       * Baggage fees
-      
+
       * Parking at the airport
-      
+
       * Any other expense related to getting you from your residence or hotel to your worksite(s) and back.
 
    You _don’t_ need receipts for the following:
+
       * Food and beverages
-      
+
       * Entertainment and other non-work related expenses
-      
+
       * Tips for porters, etc.
-      
+
       * Incidentals, forgotten items, etc.
 
    The above expenses are accounted for in your M&IE per diem rate, which you’ll receive as a flat sum after you submit a voucher for reimbursement. You can look this up this nightly allowance [here](http://www.gsa.gov/portal/category/100120), on the same page as where you looked up the government maximum hotel rate.
@@ -78,5 +80,5 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 ### Having Trouble?
 If this link does not automatically open up a gmail window for the the Employer request, please email:  kc-vendor.number.requests@gsa.gov and in the body of your message, ask for an Employee ID. Be sure to attach your completed EFT form.
 
-### Got questions? 
+### Got questions?
 Ask [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) or in [#travel](https://18f.slack.com/messages/travel)*
