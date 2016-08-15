@@ -48,11 +48,11 @@ If you have any questions, call IT at 202-501-4459.
 There are a few ways to access the GSA network remotely. Your colleagues prefer:
 
 - [AnyConnect](/anyconnect/), a desktop client
-- [myView](https://myview.gsa.gov/)'s HTML web interface
+- [Horizon](https://horizon.gsa.gov/)'s HTML web interface
 
 Alternatively, you can try one of these:
 
-- [VMware Horizon](/vmware-horizon/), a desktop client that connects to GSA myView
+- [VMware Horizon](/vmware-horizon/), a desktop client that connects to GSA Horizon
 - Citrix: Use [internal.anywhere.gsa.gov](https://internal.anywhere.gsa.gov/) when connected to VPN and [anywhere.gsa.gov](https://anywhere.gsa.gov/) when **not** connected to VPN.
 - [GSA Apps](http://gsa-apps.gsa.gov), a web interface
 
