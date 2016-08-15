@@ -46,16 +46,24 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
    You _will_ need receipts for the following types of expenses
       * Hotels
+      
       * Taxis + tips paid to drivers (limited to origins and destinations involving workplaces, residences/hotels, and airports/transit stations)
+      
       * Public transit tickets/pass
+      
       * Baggage fees
+      
       * Parking at the airport
-       * Any other expense related to getting you from your residence or hotel to your worksite(s) and back.
+      
+      * Any other expense related to getting you from your residence or hotel to your worksite(s) and back.
 
    You _don’t_ need receipts for the following:
       * Food and beverages
+      
       * Entertainment and other non-work related expenses
+      
       * Tips for porters, etc.
+      
       * Incidentals, forgotten items, etc.
 
    The above expenses are accounted for in your M&IE per diem rate, which you’ll receive as a flat sum after you submit a voucher for reimbursement. You can look this up this nightly allowance [here](http://www.gsa.gov/portal/category/100120), on the same page as where you looked up the government maximum hotel rate.
