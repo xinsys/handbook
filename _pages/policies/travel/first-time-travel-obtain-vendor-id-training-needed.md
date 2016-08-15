@@ -6,30 +6,41 @@ title: Get set up for travel for 18F as a new employee
 [Back to Last Page](/first-time-travel-obtain-vendor-id-start)
 [Next to Travel Card](/first-time-travel-travel-card)
 
-First thing that you’ll need to get is a “travel vendor ID”
+If you're traveling for 18F during your first two weeks (normally for orientation, if you're based in a city that doesn't have an 18F office), you'll get your travel arranged for you by 18F's travel team. Here's what you need to do to get set up for that:
 
-1. Fill out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing). 
+1. First thing that you’ll need to get is a “travel vendor ID”. You can do this by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing). 
 
 _Yes, you probably already did it at orientation, so this seems repetitive. However, there is a good reason for it. [Click here to find out why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh)._
 
 2.  [Attach your completed EFT form to this pre-poulated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
 [_Having trouble?_](#having-trouble)
 
-4. Wait for a reply to this email.
+3. Wait for a reply to this email.
 You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
 
-5. Send Employee ID to [ethan.heppner@gsa.gov](mailto:ethan.heppner@gsa.gov) with your proposed dates of travel, a phone number, and date of birth **from your personal email** [here’s why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh) to be set up as an “invitational traveler” temporarily. **Stop here for now.**
+4. Send Employee ID to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) with:
+* Full Name as it appears on ID, as per TSA requirements.
+* Date of birth, also for TSA requirements.
+* Personal email, for account setup until you take the IT Security Awareness Training.
+* Phone Number, for airline requirements and to facilitate booking
+* Origin and Destination Airports, for obvious reasons
+* Approved Dates of Travel, including approximate times if possible
+
+5. *Confirm travel*: Once you’ve sent in all of your information, one of the members of the 18F travel team will reach out to you by phone about potential travel options.
+
+6. *Get tickets*: E-tickets will be sent to the email address that you provided. Once a reservation is made, you will get a “pending” itinerary, which will be finalized, depending on the airline, no later than 72 hours before departure.
+
+7. *Book hotels* Until you can get a GSA travel card (read more about this [here](https://handbook.18f.gov/first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses upfront. But with a valid receipt, you will get reimbursed! Just make sure to stay at a place with rates under the government maximum (also known as per diem). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
+
+The recommended resource for booking hotels as a Federal government employee is [Fedrooms.com].
+
+You may, however, choose to book a hotel directly or through an alternative service if those alternatives are “advantageous to the government” -- meaning either less expensive or closer to your work site(s) than the options available on Fedrooms. Whatever option you choose, however, must be "fire safe" and fully refundable up to 24 hours before departure.
+
 
 **For Later** A member of the 18F travel team will make all of your travel arrangements until you can complete the training in OLU and then sign the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing).
-
-6. Traveling in less than 2 weeks?
-
-    * [Yes - Update your Concur Profile](/first-time-travel-complete-concur-profile)
-
-    * [No - Find out how to Get a Travel Card](/first-time-travel-travel-card)
 
 
 ### Having Trouble?
 If this link does not automatically open up a gmail window for the the Employer request, please email:  kc-vendor.number.requests@gsa.gov and in the body of your message, ask for an Employee ID. Be sure to attach your completed EFT form.
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)*
+*Got questions? Ask [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) or in [#travel](https://18f.slack.com/messages/travel)*
