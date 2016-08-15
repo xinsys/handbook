@@ -10,8 +10,8 @@ In order to get access to concur, you need to obtain a vendor id. The process va
 
 Have completed your  IT Security Awareness Training and Privacy Act Training in [OLU](https://gsaolu.gsa.gov/) yet?
 
-[Yes - I have taken the OLU class. ](/first-time-travel-obtain-vendor-id-training-completed)
+[Yes - I have taken the OLU class. ](/first-time-travel-get-in-concur-post-olu)
 
-[No - I didn't/don't have access to OLU.](/first-time-travel-obtain-vendor-id-training-needed)
+[No - I didn't/don't have access to OLU.](/first-time-travel-get-in-concur-pre-olu)
 
 *Got questions? Ask #travel*

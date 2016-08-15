@@ -14,6 +14,6 @@ Concur is the tool that GSA uses to book and approve official travel. You will n
 
 [Yes, I have access. I am looking to get a travel card](/first-time-travel-travel-card)
 
-[No - I would like to get access to Concur](/first-time-travel-obtain-vendor-id-start)
+[No - I would like to get access to Concur](/first-time-travel-get-in-concur-start)
 
 *Got questions? Ask [#travel](https://18f.slack.com/messages/travel)*
