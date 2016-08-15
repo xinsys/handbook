@@ -23,15 +23,15 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
 3. **Wait for a reply to your email.**
 
- You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
+   You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
 
 4. Send Employee ID to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) with:
-  * **Full Name** as it appears on ID, as per TSA requirements.
-  * **Date of birth**, also for TSA requirements.
-  * **Personal email**, for account setup until you take the IT Security Awareness Training.
-  * **Phone Number**, for airline requirements and to facilitate booking
-  * **Origin and Destination Airports**, for obvious reasons
-  * **Approved Dates of Travel**, including approximate times if possible
+   * **Full Name** as it appears on ID, as per TSA requirements.
+   * **Date of birth**, also for TSA requirements.
+   * **Personal email**, for account setup until you take the IT Security Awareness Training.
+   * **Phone Number**, for airline requirements and to facilitate booking
+   * **Origin and Destination Airports**, for obvious reasons
+   * **Approved Dates of Travel**, including approximate times if possible
 
 5. **Confirm travel**: Once you’ve sent in all of your information, one of the members of the 18F travel team will reach out to you by phone about potential travel options.
 
