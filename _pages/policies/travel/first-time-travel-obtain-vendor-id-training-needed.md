@@ -52,8 +52,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
   * Entertainment and other non-work related expenses
   * Tips for porters, etc.
   * Incidentals, forgotten items, etc.
-
- The above expenses are accounted for in your M&IE per diem rate, which you’ll receive as a flat sum after you submit a voucher for reimbursement. You can look this up this nightly allowance [here](http://www.gsa.gov/portal/category/100120), on the same page as where you looked up the government maximum hotel rate.
+The above expenses are accounted for in your M&IE per diem rate, which you’ll receive as a flat sum after you submit a voucher for reimbursement. You can look this up this nightly allowance [here](http://www.gsa.gov/portal/category/100120), on the same page as where you looked up the government maximum hotel rate.
 
 9. After you return, **create a voucher for reimbursement**:
 
@@ -65,4 +64,5 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 ### Having Trouble?
 If this link does not automatically open up a gmail window for the the Employer request, please email:  kc-vendor.number.requests@gsa.gov and in the body of your message, ask for an Employee ID. Be sure to attach your completed EFT form.
 
-*Got questions? Ask [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) or in [#travel](https://18f.slack.com/messages/travel)*
+### Got questions? 
+Ask [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) or in [#travel](https://18f.slack.com/messages/travel)*
