@@ -38,7 +38,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
 7. **Book hotels** Until you can get a GSA travel card (read more about this [here](https://handbook.18f.gov/first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses upfront. But with a valid receipt, you will get reimbursed! Just make sure to stay at a place with rates under the government maximum (also known as per diem). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
 
- The recommended resource for booking hotels as a Federal government employee is [Fedrooms.com](fedrooms.com).
+   The recommended resource for booking hotels as a Federal government employee is [Fedrooms.com](fedrooms.com).
 
    You may, however, choose to book a hotel directly or through an alternative service if those alternatives are “advantageous to the government” -- meaning either less expensive or closer to your work site(s) than the options available on Fedrooms. Whatever option you choose, however, must be "fire safe" and fully refundable up to 24 hours before departure.
 
