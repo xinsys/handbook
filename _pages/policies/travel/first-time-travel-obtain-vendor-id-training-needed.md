@@ -58,6 +58,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
       * Any other expense related to getting you from your residence or hotel to your worksite(s) and back.
 
    You _don’t_ need receipts for the following:
+   
       * Food and beverages
       
       * Entertainment and other non-work related expenses
