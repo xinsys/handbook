@@ -22,7 +22,7 @@ Are you speaking at an event? Ping us in [#outreach](https://18f.slack.com/archi
 If you're a project manager or storyteller working on an 18F project, make sure you create a communications plan. [A template and comms plans for other 18F projects are in Google Drive](https://goo.gl/2VMKe9)
 
 ## Blog
-Outreach is responsible for running the [18F blog](https://18f.gsa.gov/news). We use our blog to write about how we work, the culture of 18F, progress on our delivery and consulting projects, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. 
+Outreach is responsible for running the [18F blog](https://18f.gsa.gov/news). We use our blog to write about how we work, the culture of 18F, progress on our projects, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. 
 The primary contacts for the blog are Andre Francisco and Greg Boone. Blog business is conducted in [#blog](https://18f.slack.com/archives/blog) and as &ldquo;issues&rdquo; attached to the [blog-drafts repository](https://github.com/18F/blog-drafts/issues) on GitHub.
 
 Everyone at 18F is encouraged to write for the blog; you don’t have to be some kind of veteran to speak on our behalf. Check out the [18F Blogging Guide](https://pages.18f.gov/blogging-guide/), which lays out the process more formally, and can tell you more about our mission and process. We're happy to meet you wherever you are in the writing process.
