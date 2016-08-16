@@ -21,18 +21,15 @@ To see what sort of authorization, please answer if your project manager has con
 
 No - Complete the Email Authorization Below
 
-## Step 1 Confirm your travel dates
+## Step 1 Confirm your travel dates and get travel approval
+
 **Before you go anywhere for 18F,** you will need to provide an authorization email for each instance of travel.
 
-## 2. Supervisor Concerns
-Are you a supervisor needing to make a non-billable trip? **All supervisory staff at 18F have a blanket authorization for non-billable travel from Aaron Snow.**  
-
-However, client approval is still necessary for supervisors to make billable trips (as we must document approval on a case-by-case basis for trips billed to our clients).
-
-## 3. Get Travel Approval
 In the case of billable travel, you will need an email of approval from the client.
 
-In the case of non-billable travel, you will need an email of approval from your supervisor (or from the supervisor of whichever division of 18F will be paying for your travel).
+In the case of non-billable travel, you will need an email of approval from your supervisor (or from the supervisor of whichever division of 18F will be paying for your travel). 
+
+18F supervisors themselves no longer have blanket approval and must get it from Aaron Snow or Joshua Bailes.
 
 1. Send an email to your client with the following information:
 
