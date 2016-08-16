@@ -1,5 +1,5 @@
 
-## Where Contributions Go
+## Where contributions go
 
 Submit contributions to https://github.com/18F/handbook as a pull request. A member of the [handbook team](https://18f.slack.com/messages/18f-handbook) will check your request, offer comments if necessary, and then add it to the repo.
 
