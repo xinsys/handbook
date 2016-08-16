@@ -44,7 +44,7 @@ Vouchers allow you to receive reimbursement for travel-related expenses. You can
 
 ## Cars for official business
 
-GSA maintains a fleet of cars for official use:
+GSA maintains a fleet of cars for official use in D.C.:
 
 1. Email <mailto:Benjamin.Welna@GSA.gov> and ask for access to the "1800 F ST NW GSA Motor Pool."
 1. Watch out for a registration link to <mailto:gsa_reserve@gsa.gov>. You will then be able to login into [https://vehicledispatch.fas.gsa.gov/FMVD/VDHOME/](https://vehicledispatch.fas.gsa.gov/FMVD/VDHOME/).
