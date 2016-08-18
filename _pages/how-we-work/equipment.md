@@ -78,7 +78,9 @@ To make a request:
 1. Open [cap.18f.gov](https://cap.18f.gov/).
 1. Click **Sign in with MyUSA** to connect with Google.
 1. Scroll down and click **Allow**.
-1. Once you’re logged in, click **New 18F request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of 18F yet. Email [capdevs@gsa.gov](mailto:capdevs@gsa.gov) for access.
+1. Once you’re logged in, click **New 18F request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of 18F yet. Post a request in #c24ops for access or if you have any questions about how to use C2.
+1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
+1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
 
 If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://18f.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://18f.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
 
