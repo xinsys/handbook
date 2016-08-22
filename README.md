@@ -6,7 +6,7 @@ The [18F Handbook](https://handbook.18f.gov) documents the mission, values, stru
 
 Note: If you're changing any kind of process, please let [#wg-onboarding](https://18f.slack.com/messages/wg-onboarding) know so we can keep the handbook, new hire messages, and checklists up to date.
 
-# What can't be included
+## What can't be included
 
 For 18F staff, keep in mind that the handbook website and repository are public, so we can't include information that shouldn't be public. We already get training on this, but here are a few reminders about things we shouldn't include here:
 
@@ -21,7 +21,7 @@ We avoid including information that can easily go out of date and is already pub
 
 We're careful about publishing [information collected during research](https://handbook.18f.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#research](https://18f.slack.com/archives/research) for guidance first.
 
-# Development
+## Development
 
 ``` bash
 git clone https://github.com/18F/handbook.git
@@ -30,14 +30,17 @@ bundle install
 ./go serve
 ```
 
-## Travel guide development
+### Travel guide development
+
 To add additional images:
-* Add an image to the `images/travel` directory
-* Link the image on the travel page, with folding HTML: `<img src="/images/travel/filename.png" class="travel-guide-hide">`
-* A show/hide link will automatically be created.
+
+1. Add an image to the `images/travel` directory.
+1. Link the image on the travel page, with folding HTML: `<img src="/images/travel/filename.png" class="travel-guide-hide">`.
+1. A show/hide link will automatically be created.
 
 To create a new page:
-* Create a markdown file in the `_pages/policies/travel` directory
-* Include a title and links to the "Travel Guide TOC" (see existing pages for reference)
-* Update the page content
+
+1. Create a markdown file in the `_pages/policies/travel` directory.
+1. Include a title and links to the "Travel Guide TOC" (see existing pages for reference).
+1. Update the page content.
 * Update the Travel Guide TOC `_pages/policies/travel/travel-guide-table-of-contents.md` with a link to your new page.
