@@ -128,9 +128,9 @@ The Civic Hall wireless network and password are posted at the front desk and on
 
 Facing the main space, turn right out of reception. Follow the hallway all the way to the back, signs will guide you.
 
-### Mother’s room
+### Mother’s rooms
 
-There isn’t a dedicated room, but Civic Hall recommends using Phone Room 3, because it is tucked away and locks. It has a window that they usually paper over. Ask the front desk person for help if you have questions.
+There isn’t a dedicated room, but Civic Hall recommends using Phone Room 3, because it is tucked away and locks. Ask the person at the front desk for the laminated window covering. They also have a “pumping in progress, privacy please” sign for the other phone rooms, but people may walk in on you.
 
 ### <a id="snacks"></a>Snacks and drinks
 
@@ -152,7 +152,7 @@ In region 2 (that&rsquo;s us!) the transit benefit comes on a prepaid debit card
 
 The bank that processes region 2 subsidies (Chase) requires one more piece of information that is not on the form: your Service Computation Date. If you are a new federal employee, this is the Sunday before the first day you showed up at 18F. If you are continuing from a previous federal job, it is the day you started that job. You can find that date on [Employee Express](https://www.employeeexpress.gov/).
 
-Email the completed form to Benjamin Zabava at [ben.zabava@gsa.gov](mailto:ben.zabava@gsa.gov), and cc Victor Valdiviezo (victor.valdiviezo@gsa.gov). Include your service computation date in the email. He will tell you when a transit card has arrived for you and is available to pick up at his desk in room 1655. It can take about a week.
+Email the completed form to Benjamin Zabava at [ben.zabava@gsa.gov](mailto:ben.zabava@gsa.gov), and cc Victor Valdiviezo ([victor.valdiviezo@gsa.gov](mailto:victor.valdiviezo@gsa.gov)). Include your service computation date in the email. He will tell you when a transit card has arrived for you and is available to pick up at his desk in room 1655. It can take about a week.
 
 ### Register your card
 
@@ -162,7 +162,7 @@ Register online at [https://ucard.chase.com/](https://ucard.chase.com/). Despite
 
 Although it is technically a debit card, when you put the card in an MTA machine, select `Credit Card` as your payment method, and use the same office ZIP code. The balance resets on the 10th of every month. The new balance is intended to cover the following month&rsquo;s transit, but you can use it at any time.
 
-## <a id="nyc-events"></a>NYC Events
+## <a id="nyc-events"></a>NYC events
 
 We have a team breakfast every Tuesday morning in the Civic Hall cafe (BYOB - bring your own breakfast) and a happy hour outing the first Thursday of every month. Both are optional, but lots of fun. Ask to be added to the invite in #nyc.
 

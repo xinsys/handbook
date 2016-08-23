@@ -59,7 +59,7 @@ The Writing Lab at 18F can help you with any of your communications needs. Givin
 
 ## <a id="tuesdays">Tuesdays</a>
 
-### Hatch Act, FOIA, Ethics, and Code of Conduct
+### <a id="ethics">Hatch Act, FOIA, Ethics, and Code of Conduct</a>
 
 The #legalstuff team will go over what you can and cannot do as a federal employee, including what you can and can’t do on social media. Learn about what information can be acquired through the Freedom of Information Act (FOIA) and how the 18F Code of Conduct frames the work we do online and off.
 
@@ -110,13 +110,6 @@ The talent team helps candidates navigate the government hiring process and then
 
 **When:** Every other Wednesday ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)), email from Talent.
 **Tags:** [#talent](https://18f.slack.com/messages/talent)
-
-### <a id="consulting-team" href="/consulting">Introduction to the Consulting Team</a>
-
-What does 18F Consulting do? Come away with a clear understanding of who works on 18F consulting and what projects they take on.
-
-**When:** Second Wednesday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
-**Tags:** [#18f-consulting](https://18f.slack.com/messages/18f-consulting)
 
 ### <a id="social-media" href="/social-media/">Social media 101</a>
 

@@ -8,18 +8,13 @@ This guide covers the offboarding policy and process.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave 18F, send an official email to:
-
-- Your supervisor
-- Talent Team (Cristina Brydges, Shawnique Muller, and Jenn Moran)
-- Infrastructure (Noah Kunin)
-- Ops (Patrick Bateman and Leah Gitter)
+If you decide you want to leave 18F, send an official email to your supervisor and [leaving18f@gsa.gov](mailto:leaving18f@gsa.gov).
 
 Include your termination date, which should be at least two weeks out. Your last day at 18F cannot be a federal holiday.
 
 ### 2. Complete the clearance checklist
 
-Complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with  #teamops.
+Complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with [#teamops](https://18f.slack.com/archives/teamops).
 
 ### 3. Review benefits paperwork
 
@@ -45,8 +40,8 @@ When you leave 18F, you are responsible for returning all 18F issued equipment. 
 ### Talent Team
 
 - Conduct an exit interview using [these questions](https://docs.google.com/a/gsa.gov/document/d/1PpbxoZhPlW2oQx9grMyPSUDepDTQCNiwYO-D1X2IkJk/edit).
-    * Documentation will be kept anonymous.
-    * After three samples are gathered, look for trends.
+  - Documentation will be kept anonymous.
+  - After three samples are gathered, look for trends.
 
 ### Ops Team
 

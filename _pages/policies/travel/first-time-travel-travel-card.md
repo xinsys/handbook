@@ -18,7 +18,7 @@ _Est. time: 45 minutes_
 1. Head [here](https://training.smartpay.gsa.gov/user/register?destination=node%2F1) to register for an account.
 2. Use your GSA email as the username and create any password.
 3. Take the training (~20 pages of info followed by a quiz).
-4. Save your certificate of completion as “Your Name TCTC”
+4. Save your certificate of completion as “Your Name TCTC” (your certificate will be under "My Account," then "My Certificates").
 
 ### 2. Fill out the Supervisory Travel Card Approval
 

@@ -62,7 +62,7 @@ Your third week of training is relatively short. You’ll learn about accessibil
 * [Meetings and meeting tools](/meetings-and-meeting-tools) ([Description](/classes/#meetings))
 
 ## <a name="week-4"></a>Week 4
-In your fourth week, you’ll learn about writing for the 18F blog and participating in our internal working groups, guilds, and grouplets. You’ll also learn about 18F consulting and you’ll take a tour of some of our products.
+In your fourth week, you’ll learn about writing for the 18F blog and participating in our internal working groups, guilds, and grouplets. You’ll also take a tour of some of our products.
 
 ### Monday
 _No classes are scheduled for this day_
@@ -72,7 +72,7 @@ _No classes are scheduled for this day_
 * [Working groups and guilds](/working-groups-and-guilds-101) ([Description](/classes/#groups-guilds-guides))
 
 ### Wednesday
-* [Introduction to the Consulting Team](/consulting) ([Description](/classes/#consulting-team))
+_No classes are scheduled for this day_
 
 ### Friday
 * Front-end guild, Midas, and Federalist ([Description](/classes/#18f-products))

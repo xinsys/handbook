@@ -13,9 +13,7 @@ Our agency maintains a formal meeting, conference, and event policy which may be
 
 Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
 
-Also, meetings can and should be designed. If you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda.
-
-The [Consulting Team](/consulting) is an invaluable resource on planning and executing successful meetings. If you ever have a question about creating a meeting, pop into the "consulting for design and product" channel, [#c-design-prod](https://18f.slack.com/messages/c-design-prod/). You can also use the "Discover" and "Decide" methods from 18F's [Design Methods](https://methods.18f.gov/) as a starting point.
+Also, meetings can and should be designed. If you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda. The [#wg-workshops](https://18f.slack.com/messages/workshops) Slack channel is a good place to ask for help about meeting design. You can also use the "Discover" and "Decide" methods from 18F's [Design Methods](https://methods.18f.gov/) as a starting point.
 
 ## <a id="townhalls">OCSIT/18F Townhalls</a>
 
