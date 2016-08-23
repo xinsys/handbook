@@ -3,7 +3,9 @@
 
 Everyone (both inside and outside 18F) can submit contributions to https://github.com/18F/handbook as a pull request or [open an issue](https://github.com/18F/handbook/issues/new) with a suggestion. If you're part of 18F, you can also chat about ideas in [#18f-handbook](https://18f.slack.com/messages/18f-handbook) or [#wg-onboarding](https://18f.slack.com/messages/wg-onboarding).
 
-There is no dedicated staffing for the handbook right now; all contributions and maintenance are done in spare time by any 18F staff member who is interested in helping.
+There is no dedicated staffing for the handbook right now; maintenance is done in spare time by any 18F staff member who is interested in helping.
+
+If you're working on a chunk of writing that is important to you or your team (or to 18F in general), consider asking the [18F Writing Lab](https://github.com/18F/writing-lab) to review and edit it before you propose it for the handbook.
 
 If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider tagging or assigning it to that team or person (or pinging them in Slack to ask them to review it).
 
