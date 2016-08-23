@@ -12,14 +12,14 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
    _Note if you haven't started and don't have your GSA email address yet_:
 
-   Your access to the EFT form linked above may be resticted, so you should have received it as an attachment in your welcome email-- feel free to reach out to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) if you never got it.
+   Your access to the EFT form linked above may be restricted, so you should have received it as an attachment in your welcome email-- feel free to reach out to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) if you never got it.
 
    _Note if you have started and do have your GSA email address_:
 
    Yes, you probably already filled out the EFT form at orientation, so this seems repetitive. However, there is a good reason for it. [Click here to find out why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh).
 
-2.  **Attach your completed EFT form** to [this pre-poulated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
-[_Having trouble?_](#having-trouble)
+2.  **Attach your completed EFT form** to [this pre-populated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
+[_Having trouble sending the EFT form?_](#having-trouble-sending-the-EFT-form)
 
 3. **Wait for a reply to your email.**
    You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
@@ -59,11 +59,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
       * Any other expense related to getting you from your residence or hotel to your worksite(s) and back.
 
    You _don’t_ need receipts for the following:
-<<<<<<< HEAD:_pages/policies/travel/first-time-travel-get-in-concur-pre-olu.md
 
-=======
-
->>>>>>> origin/master:_pages/policies/travel/first-time-travel-obtain-vendor-id-training-needed.md
       * Food and beverages
 
       * Entertainment and other non-work related expenses
@@ -74,6 +70,8 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
    The above expenses are accounted for in your M&IE per diem rate, which you’ll receive as a flat sum after you submit a voucher for reimbursement. You can look this up this nightly allowance [here](http://www.gsa.gov/portal/category/100120), on the same page as where you looked up the government maximum hotel rate.
 
+   [_What happens if my flight gets cancelled_](#what-happens-if-my-flight-gets-cancelled)
+
 9. After you return, **create a voucher for reimbursement**:
 
    You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in OLU, you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
@@ -81,7 +79,13 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
    Once you get access, you can follow [these instructions for how to complete a voucher](https://handbook.18f.gov/travel-guide-5-reimbursement/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
 
 
-### Having Trouble?
-If this link does not automatically open up a gmail window for the the Employer request, please email:  kc-vendor.number.requests@gsa.gov and in the body of your message, ask for an Employee ID. Be sure to attach your completed EFT form.
+### Having trouble sending the EFT form?
+If this link does not automatically open up a gmail window for the the Employer request, please email:  [kc-vendor.number.requests@gsa.gov](mailto:kc-vendor.number.requests@gsa.gov) and in the body of your message, ask for an Employee ID. Be sure to attach your completed EFT form.
+
+### What happens if my flight gets cancelled?
+
+The easiest option would be to have the airline reschedule you. If that's not possible though, you may also call Ad-Trav at *(877) 472-6716* to be rebooked on any airline.
+
+If you are traveling to orientation and are worried that you will miss it because of delays or cancellations, please let [shawnique.muller@gsa.gov](mailto:shawnique.muller@gsa.gov) know and she will make arrangements for you to swear in when you expect to arrive. You may have to attend GSA orientation in your home city 2 weeks later, but please continue to travel to the office where your orientation was scheduled to be for 18F onboarding. While Shawnique and the travel team won't be available until Monday if your cancellation occurs over the weekend, rest assured that you will be in good hands when you arrive.
 
 *Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
