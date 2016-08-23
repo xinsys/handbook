@@ -51,4 +51,4 @@ That of your functional supervisor.
 
 ### Got other questions?
 
-Ask [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) or in [#travel](https://18f.slack.com/messages/travel)*
+*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

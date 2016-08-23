@@ -27,7 +27,7 @@ No - Complete the Email Authorization Below
 
 In the case of billable travel, you will need an email of approval from the client.
 
-In the case of non-billable travel, you will need an email of approval from your supervisor (or from the supervisor of whichever division of 18F will be paying for your travel). 
+In the case of non-billable travel, you will need an email of approval from your supervisor (or from the supervisor of whichever division of 18F will be paying for your travel).
 
 18F supervisors themselves no longer have blanket approval and must get it from Aaron Snow or Joshua Bailes.
 
@@ -79,4 +79,4 @@ Call AdTrav at 877-472-6716 to make flight arrangements.
 
 Whether going through AdTrav or arranging your own accommodations, continue on to [Alternate Step 3](). Do not book a hotel through Concur.
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)*
+*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

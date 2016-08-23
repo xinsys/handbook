@@ -62,7 +62,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 <<<<<<< HEAD:_pages/policies/travel/first-time-travel-get-in-concur-pre-olu.md
 
 =======
-   
+
 >>>>>>> origin/master:_pages/policies/travel/first-time-travel-obtain-vendor-id-training-needed.md
       * Food and beverages
 
@@ -84,5 +84,4 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 ### Having Trouble?
 If this link does not automatically open up a gmail window for the the Employer request, please email:  kc-vendor.number.requests@gsa.gov and in the body of your message, ask for an Employee ID. Be sure to attach your completed EFT form.
 
-### Got questions?
-Ask [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) or in [#travel](https://18f.slack.com/messages/travel)*
+*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

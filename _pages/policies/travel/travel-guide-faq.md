@@ -73,3 +73,5 @@ AdTrav can expedite the booking of your flight (if you are less than 3 days away
 * Flying to your travel location from another place that is not your home city and/or flying from your travel location to another place that is not your home city.
 
 * 18F will pay for a flight that is equal to or less than in price to the least expensive compliant flight between your home city and travel location. For flights that are more expensive, you are responsible for the difference in price.
+
+*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
