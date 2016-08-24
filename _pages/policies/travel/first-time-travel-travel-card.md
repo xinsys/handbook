@@ -4,7 +4,7 @@ navtitle: First-Time Travel Get a Travel Card
 ---
 
 [TOC](/travel-guide-table-of-contents)
-[Back to Last Step](/first-time-travel-obtain-vendor-id-start)
+[Back to Last Step](/first-time-travel-get-in-concur-pre-olu)
 [Next to Complete Concur Profile](/first-time-travel-complete-concur-profile)
 
 A GSA Travel card will help you pay for lodging, taxis and other miscellaneous expenses while on your trip.
