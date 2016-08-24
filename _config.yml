@@ -196,6 +196,9 @@ navigation:
     - text: Product
       url: product/
       internal: true
+    - text: Strategy
+      url: strategy/
+      internal: true
     - text: Talent
       url: talent/
       internal: true
