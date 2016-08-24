@@ -1,7 +1,5 @@
 # Responsible Disclosure Policy
 
-18F Responsible Disclosure Policy 
-
 We take the security of our systems seriously, and we value the security community. The responsible disclosure of security vulnerabilities helps us ensure the security and privacy of our users.
 
 **Guidelines**  
