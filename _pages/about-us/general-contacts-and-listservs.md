@@ -10,7 +10,7 @@ Information you might need for filling out GSA forms:
 
 * **Agency:** General Services Administration
 * **Organization:** Citizen Services and Innovative Technologies
-* **Correspondence symbol:** XF, XFA, XFB, or XFC. [More about correspondence symbols](https://insite.gsa.gov/portal/content/500188). Find yours by searching the [GSA directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
+* **Correspondence symbol:** TE (followed by several other letters, depending on your chapter/business unit) [More about correspondence symbols](https://insite.gsa.gov/portal/content/500188). Find yours by searching the [GSA directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
 * **Telework Agreement Location:** 00
 
 ## Team contact information
