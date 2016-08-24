@@ -29,7 +29,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
     * **Date of birth**, also for TSA requirements.
     * **Personal email**, for account setup until you take the IT Security Awareness Training.
     * **Phone Number**, for airline requirements and to facilitate booking
-    * **Origin and Destination Airports**, for obvious reasons
+    * **Origin and Destination Airports or Train Stations**, for obvious reasons
     * **Approved Dates of Travel**, including approximate times if possible
 
 5. **Confirm travel**: Once you’ve sent in all of your information, one of the members of the 18F travel team will reach out to you by phone about potential travel options.
