@@ -2,13 +2,13 @@
 
 We take the security of our systems seriously, and we value the security community. The responsible disclosure of security vulnerabilities helps us ensure the security and privacy of our users.
 
-**Guidelines**  
+## Guidelines
 
 We require that all researchers:
 * Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction of data during security testing;
 * Perform research only within the scope set out below; 
 * Use the identified communication channels to report vulnerability information to us; and
-* Keep information about any vulnerabilities you’ve discovered confidential between yourself and 18F until we’ve had 90 days to resolve the issue.
+* Keep information about any vulnerabilities you’ve discovered confidential between yourself and the United States government until we’ve had 90 days to resolve the issue.
 
 
 If you follow these guidelines when reporting an issue to us, we commit to:
@@ -17,17 +17,19 @@ If you follow these guidelines when reporting an issue to us, we commit to:
 * Recognize your contribution on our Security Researcher Hall of Fame, if you are the first to report the issue and we make a code or configuration change based on the issue.
 
 
-**Scope**  
-* www.18F.gov
-* cloud.gov
+## Scope 
+* [insert endpoints / systems here]
 
-**Out of scope**  
-Any services hosted by 3rd party providers and services are excluded from scope. These services include:
-* Federal Agency Systems and Applications not affiliated with 18F
-* APIs called by 18F applications
-* AWS instances of 18F systems not listed in the ‘Scope’ section
 
-In the interest of the safety of our users, staff, the Internet at large and you as a security researcher, the following test types are excluded from scope: 
+## Out of scope
+
+Any services not listed under `Scope` above are excluded from scope. These services include but may not be limited to:
+
+* Federal Agency Systems and Applications not affiliated with the [Technology Transformation Service (TTS)](http://www.gsa.gov/portal/category/25729)
+* External APIs called by the applications of the TTS 
+* AWS instances of TTS systems not listed in the ‘Scope’ section
+
+In the interest of the safety of our users, staff, the internet at large and you as a security researcher, the following test types are excluded from scope: 
 * Findings from physical testing such as office access (e.g. open doors, tailgating)
 * Findings derived primarily from social engineering (e.g. phishing, vishing)
 * Findings from applications or systems not listed in the ‘Scope’ section
@@ -39,7 +41,7 @@ Things we do not want to receive:
 * Credit card holder data 
 
 
-**How to report a security vulnerability?**  
+## How to report a security vulnerability?
 If you believe you’ve found a security vulnerability in one of our products or platforms please send it to us by emailing security@18F.gov. Please include the following details with your report:
 
 * Description of the location and potential impact of the vulnerability;
