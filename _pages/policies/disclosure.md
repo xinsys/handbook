@@ -25,8 +25,9 @@ In the interest of the safety of our users, staff, the internet at large and you
 * Findings from physical testing such as office access (e.g. open doors, tailgating)
 * Findings derived primarily from social engineering (e.g. phishing, vishing)
 * Findings from applications or systems not listed in the ‘Scope’ section
-* UI and UX bugs and spelling mistakes
 * Network level Denial of Service (DoS/DDoS) vulnerabilities
+* UI and UX bugs and spelling mistakes
+
 
 Things we do not want to receive: 
 * Personally identifiable information (PII) 
@@ -42,6 +43,6 @@ If you believe you’ve found a security vulnerability in one of our products or
 
 * Description of the location and potential impact of the vulnerability;
 * A detailed description of the steps required to reproduce the vulnerability (POC scripts, screenshots, and compressed screen captures are all helpful to us); and
-* Your name/handle and a link for recognition in our Hall of Fame.
+* Your name/handle and a link for recognition in [TBD]
 
 If you’d like to encrypt the information, please use our [PGP key].
