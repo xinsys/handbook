@@ -8,7 +8,7 @@ Collectively, we’re experienced in a wide variety of technologies including Py
 
 ### Documentation
 
-Our [Engineering Best Practices guide](https://pages.18f.gov/development-guide/) has details about Git, code reviews, and more. You might also enjoy the [open source](https://18f.gsa.gov/tags/open-source/) archives on the blog.
+Our [Engineering Best Practices guide](https://github.com/18F/development-guide#18f-development-guide) has details about Git, code reviews, and more. You might also enjoy the [open source](https://18f.gsa.gov/tags/open-source/) archives on the blog.
 
 ### Communication
 
