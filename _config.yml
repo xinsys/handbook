@@ -331,6 +331,9 @@ navigation:
   - text: Overtime and comp-time policy
     url: overtime-and-comp-time/
     internal: true
+  - text: Performance management requirements and timeline
+    url: performance-management/
+    internal: true
   - text: Promotions
     url: promotions/
     internal: true
