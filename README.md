@@ -30,6 +30,8 @@ bundle install
 ./go serve
 ```
 
+See the 18F Pages documentation to learn how to [make a new page](https://pages.18f.gov/guides-template/add-a-new-page/) and [add it to the homepage navigation links](https://pages.18f.gov/guides-template/update-the-config-file/).
+
 ### Travel guide development
 
 To add additional images:
