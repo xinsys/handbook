@@ -313,6 +313,9 @@ navigation:
   - text: Employee assistance program
     url: employee-assistance-program/
     internal: true
+  - text: Emergency procedures
+    url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
+    internal: false
   - text: Leave, telework, and virtual worker policy
     url: leave-telework-and-virtual-worker/
     internal: true

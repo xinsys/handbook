@@ -277,3 +277,7 @@ We keep a list of [people who work in the San Francisco office](https://hub.18f.
 [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=zMY1nJmKeGBU.kU147P2SgCmA) with lots of food and drink options near 50 UN Plaza.
 
 If you’re looking for people to eat with or suggesting an outing, use the keyword `sfeats` in [#sf](https://18f.slack.com/archives/sf). (This is an alternative to `@here`, which is intrusive for people who want to screen out those notifications). You can also add that to your [Slack highlight words](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications) to be notified when other people are talking about food.
+
+## Evacuation procedures
+
+See [the emergency guide](https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit#heading=h.d7gtpfmaz4nv).
