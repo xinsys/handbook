@@ -10,16 +10,8 @@ We require that all researchers:
 * Use the identified communication channels to report vulnerability information to us; and
 * Keep information about any vulnerabilities you’ve discovered confidential between yourself and the United States government until we’ve had 90 days to resolve the issue.
 
-
-If you follow these guidelines when reporting an issue to us, we commit to:
-* Not pursue or support any legal action related to your research;
-* Work with you to understand and resolve the issue quickly (including an initial confirmation of your report within 72 hours of submission); 
-* Recognize your contribution on our Security Researcher Hall of Fame, if you are the first to report the issue and we make a code or configuration change based on the issue.
-
-
 ## Scope 
 * [insert endpoints / systems here]
-
 
 ## Out of scope
 
@@ -40,9 +32,13 @@ Things we do not want to receive:
 * Personally identifiable information (PII) 
 * Credit card holder data 
 
+## Authorization
+If you follow the _entirety_ of this disclosure when reporting an issue to us, we will consider your security research to be authorized, and in addition, we will:
+* Work with you to understand and resolve the issue quickly (including an initial confirmation of your report within 72 hours of submission); 
+* Recognize your contribution on [TBD]
 
 ## How to report a security vulnerability?
-If you believe you’ve found a security vulnerability in one of our products or platforms please send it to us by emailing security@18F.gov. Please include the following details with your report:
+If you believe you’ve found a security vulnerability in one of our products or platforms please send it to us by emailing [TBD]. Please include the following details with your report:
 
 * Description of the location and potential impact of the vulnerability;
 * A detailed description of the steps required to reproduce the vulnerability (POC scripts, screenshots, and compressed screen captures are all helpful to us); and
