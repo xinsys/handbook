@@ -126,20 +126,24 @@ Whether you're new at 18F and are joining the SF office or you're a long-time 18
 
 * Add yourself to our [desk schedule spreadsheet](https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=0).
 * Add yourself to our [cleaning crew schedule](https://docs.google.com/document/d/1CCKYxIRrCUDJpykKgrjDBISLG-2toMv9yu1hLfR2IOs/edit).
-* If you'd like to have a locker, ask Victor for a [locker assignment](https://docs.google.com/document/d/1nVrLNGME72dnS-vaGV9DofF-UG9pC8sP6Lea2x0EOnU/edit).
+* If you would like a locker, please email <mailto:victor.valdiviezo@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
 * Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
 * If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
 * If you use public transit to/from work, [set up your TRANServe card](#transit-subsidy).
 * If you want to get notified about coffee/tea/lunch outings, [set up a `sfeats` Slack highlight](#food-and-coffee).
 
-### Bring in guests?
+### Bring in one-time guests?
 
 Meet your guests at the front security desk to escort them in.
 
 Be aware that IDs from [a few states](https://www.dhs.gov/current-status-states-territories) are not acceptable; see that page for the current list of "noncompliant states". For these states, another issued picture ID is required (or they can just show a passport).
 
 If you’re inviting guests to a potluck, point them to our handy [Eventbrite invite](https://www.eventbrite.com/e/18f-potluck-lunch-tickets-9543876993) with all of the security details.
+
+### Host long-term guests?
+
+You may host folks from other government agencies. As the host you are responsible for access issues and for any requests. You will need to complete [50 UNP Auth Form.pdf](https://github.com/18F/handbook/files/433703/50.UNP.Auth.Form.pdf) using your own information and email it to <mailto:50UNPBuildingServices@gsa.gov>. Please make sure you do this with advance notice, since the building will need time to update the guards’ list of approved guests. Once the form has been accepted, guests will be able to access the building without an escort.
 
 ### Access the building after hours?
 
@@ -196,6 +200,8 @@ There is an all-gender bathroom in the Nimitz Suite on the third floor (room 319
 
 An all-gender bathroom is also available for limited hours on Tuesday through Thursday in the Health Unit, which is in the basement. See the <a href="#health-center">health center</a> section for further details.
 
+If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://cap.18f.gov/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
+
 ### Batteries
 
 There are rechargeable batteries throughout the office space. You will find them plugged into sockets charging. Please replace the fresh ones you pulled out with the dead ones for recharging and re-use by another employee.
@@ -235,7 +241,7 @@ For FedEx and UPS, please use the address as usual:
 
 ### Gym
 
-There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)), with lockers and a locker room. To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment. If you have any questions about this, contact [Victor in Slack](https://18f.slack.com/messages/@vv).
+There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)), with lockers and a locker room. To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
 
 ### Interior courtyard
 
@@ -243,7 +249,7 @@ The interior courtyard has Wi-Fi access so you can work outside!
 
 ### Transit subsidy
 
-All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. To receive a transit subsidy, fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174). See more details [on InSite](https://insite.gsa.gov/portal/category/511801). Once your supervisor has signed the form, send it to [Lyvette Jones](mailto:lyvette.jones@gsa.gov) and cc [Victor Valdiviezo](mailto:victor.valdiviezo@gsa.gov).
+All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. To receive a transit subsidy, fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174). See more details [on InSite](https://insite.gsa.gov/portal/category/511801). Once your supervisor has signed the form, send it to [Lyvette Jones](mailto:lyvette.jones@gsa.gov).
 
 You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
 
