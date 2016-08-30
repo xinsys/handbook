@@ -205,9 +205,9 @@ Take the elevator to seventh floor for wireless and a beautiful view of the Nati
 
 ### Transit subsidy
 
-All GSA employees are eligible for transit subsidies, which cover the cost of your mass transportation travel. To receive a transit subsidy for MARC, VRE, and Commuter Buses, fill out GSA form 3675. The form asks for your supervisor&rsquo;s signature. For Metro, you need GSA form 3675A (it will have a &ldquo;SmarTrip Card Serial Number&rdquo; field in the upper right). You must already have a SmarTrip card and have registered it on the Metro website. It should be a distinct card from what you use for personal travel.
+All GSA employees are eligible for transit subsidies, which cover the cost of your mass transportation travel to/from work. To receive a transit subsidy for MARC, VRE, and Commuter Buses, fill out GSA form 3675. The form asks for your supervisor&rsquo;s signature. For Metro, you need GSA form 3675A (it will have a &ldquo;SmarTrip Card Serial Number&rdquo; field in the upper right). You must already have a SmarTrip card and have registered it on the Metro website. It should be a distinct card from what you use for personal travel.
 
-After you've obtained your supervisor&rsquo;s signature, [send the completed form to Karen Lomax](mailto:karen.lomax@gsa.gov) for processing. It can take a while to for the subsidy to appear on your card, so do this ASAP. You don't have to be exact about the monthly amount; any remaining balance is reclaimed at the end of the month, so err on the side of overstating your monthly commuting costs.
+After you've obtained your supervisor&rsquo;s signature, [send the completed form to co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov) for processing. It can take a while to for the subsidy to appear on your card, so do this ASAP.
 
 ### Helpful contacts
 
