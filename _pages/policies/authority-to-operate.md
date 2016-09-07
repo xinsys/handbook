@@ -47,8 +47,9 @@ The following delegations and designations are made in the TTS:
 
 * All changes in authority take effect immediately upon signature of the TTS Commissioner and counter-signature of the relevant staff. No change in authority is active if a counter-signature of the staff accepting the delegation or designation is missing.
 
-This policy is put into effect by this policy being digitally signed by the Acting TTS Infrastructure Director and committed into this Handbook. 
+## Policy activation
 
+This policy is put into effect by this policy being digitally signed by the Acting TTS Infrastructure Director and committed into this Handbook. All digital signatures must submitted by signing the entire content of this policy with PGP or exporting the content to a PDF and signing with your GSA PIV card.
 
 
 ---
