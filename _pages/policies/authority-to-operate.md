@@ -15,7 +15,7 @@ The Technology Transformation Service is led by a Commissioner, who directly rep
 
 * information systems used or operated by GSA or by a contractor of GSA or other organization on behalf of GSA
 
-This scope is defined by the [Federal Information Security Management Act](https://www.congress.gov/bill/113th-congress/senate-bill/2521/text?overview=closed)Systems that fall into either of these categories are herein referred to as "TTS systems". In order to ensure that risk for TTS systems is properly assessed and cost-effectively reduced to an appropriate level by senior TTS officials and system owners, the TTS Commissioner can both delegate to TTS Authorizing Officials and designate their representatives to carry out this work.
+This scope is defined by the [Federal Information Security Management Act](https://www.congress.gov/bill/113th-congress/senate-bill/2521/text?overview=closed). Systems that fall into either of these categories are herein referred to as "TTS systems". In order to ensure that risk for TTS systems is properly assessed and cost-effectively reduced to an appropriate level by senior TTS officials and system owners, the TTS Commissioner can both delegate to TTS Authorizing Officials and designate their representatives to carry out this work.
 
 ## Background
 
@@ -38,7 +38,6 @@ The following delegations and designations are made in the TTS:
 
 * All Authorizing Officials formally accept the security responsibility for the operation of a system and their authorizations must declare that their systems are adequately protected.
 
-
 * The TTS Commissioner hereby delegates the 18F Infrastructure Director, in their role as **Acting TTS Infrastructure Director, as the Authorizing Official responsible for authorizing via digital signature any and all systems**, except for systems categorized at the FIPS High impact level, for either confidentiality, integrity, or availability. 
 
 * The Acting TTS Infrastructure Director hereby designates the Infrastructure Leads of the TTS Business Units as **Authorizing Official Designated Representatives** for all systems, and therefore the responsibility for all security planning and "approving the security plan, plans of actions and milestones, the security assessment, and the determination of risk". The Infrastructure Leads must **prepare and approve** via digital signature the final authorization package in a structure data format determined by the Acting TTS Infrastructure Director.
@@ -48,8 +47,10 @@ The following delegations and designations are made in the TTS:
 
 * All changes in authority take effect immediately upon signature of the TTS Commissioner and counter-signature of the relevant staff. No change in authority is active if a counter-signature of the staff accepting the delegation or designation is missing.
 
-
 This policy is put into effect by this policy being digitally signed by the Acting TTS Infrastructure Director and committed into this Handbook. 
+
+
+
 ---
 
 #### Still have questions?
