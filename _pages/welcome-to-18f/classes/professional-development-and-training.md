@@ -234,3 +234,5 @@ As an 18F team member, you have access to additional online training resources.
 - 18F has a number of licenses to **User Interface Engineering (UIE)&rsquo;s video library.** To access it, add your name to [this spreadsheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1CGl5gBdFhKQ3aFdvv67KGLa21xj-WFp6whRF9XGU-B0/edit#gid=0). Then log in [here](http://aycl.uie.com/).
 
 - [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, email [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov).
+
+-  GSA offers free, individual coaching for employees. Any of us can tap them any time, at no cost. [More details here](https://18f.slack.com/archives/general-talk/p1472743103000323)
