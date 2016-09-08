@@ -22,7 +22,7 @@ In addition to receiving round trip tickets to your destination and lodging for 
 
 * Because you don’t need to provide receipts for it, it’s recommended that you **not use the travel card for meals or incidental expenses.** It’s just easier to use personal money for this.
 
-    * If you do pay for M&IE on the Travel Card, you will have to pay off the remaining balance on the card at the end of the month youself-- ostensibly using the flat M&IE reimbursement that the Government will credit to your personal account after you submit your voucher.
+    * If you do pay for M&IE on the Travel Card, you will have to pay off the remaining balance on the card at the end of the month youself-- ostensibly using the flat M&IE reimbursement that the government will credit to your personal account after you submit your voucher.
 
 * The amount that is given is based on your location, not your actual expenses.
 
