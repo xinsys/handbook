@@ -3,8 +3,8 @@ title: Travel Guide Step Accounting Codes
 ---
 
 [TOC](/travel-guide-table-of-contents)
-[Back to Enter Accounting Codes](/travel-guide-3-approval/#ii-enter-accounting-codes)
-[Jump to Submitting your Approval](/travel-guide-3-approval/#iii-submit-authorization-for-approval)
+[Back to Enter Accounting Codes](/travel-guide-3-approval/#iii-enter-accounting-codes)
+[Jump to Submitting your Approval](/travel-guide-3-approval/#iv-submit-authorization-for-approval)
 
 This page is for those looking to create or modify accounting codes, or enter multiple codes.
 
@@ -54,7 +54,7 @@ This page is for those looking to create or modify accounting codes, or enter mu
 
     * **No, I won't be using this code now** Click **Add/Change Favorites**
 
-7. When you've added your codes [submit your authorization for approval](/travel-guide-3-approval/#iii-submit-authorization-for-approval)
+7. When you've added your codes [submit your authorization for approval](/travel-guide-3-approval/#iv-submit-authorization-for-approval)
 
 ### Multiple Accounting Codes
 **MAY NEED UPDATING**
@@ -70,8 +70,8 @@ For example, you might plan a billable client trip to coincide with the non-bill
 
 4. You can either allocate by percentage by selecting the **Document Allocation Level** tab, or by **Expense Level Allocation**. Allocate accordingly and click save.
 
-[Back to Enter Accounting Codes](/travel-guide-3-approval/#ii-enter-accounting-codes)
-[Continue to to Submitting your Approval](/travel-guide-3-approval/#iii-submit-authorization-for-approval)
+[Back to Enter Accounting Codes](/travel-guide-3-approval/#iii-enter-accounting-codes)
+[Continue to to Submitting your Approval](/travel-guide-3-approval/#iv-submit-authorization-for-approval)
 
 
 

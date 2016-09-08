@@ -10,9 +10,9 @@ Now that you've chosen your itinerary, its time to complete some additional trip
 
 1. [Completing your Trip Information](#i-complete-trip-information)
 
-2. [Entering Accounting Codes](#ii-enter-accounting-codes)
+2. [Entering Accounting Codes](#iii-enter-accounting-codes)
 
-3. [Submit your Authorization for Approval](#iii-submit-authorization-for-approval)
+3. [Submit your Authorization for Approval](#iv-submit-authorization-for-approval)
 
 ### I. Complete Trip Information
 On the **Trip Booking Information** page you must enter some general information. TeamOps has standardized the trip naming convention to alleviate some billing headaches.
@@ -44,7 +44,14 @@ Notice the second block of red text. It indicated that the reservations MUST be 
 
 Proceed to enter your accounting codes.
 
-### II. Enter Accounting Codes
+### II. Fill in general information
+
+1. Click on the **General** tab of your authorization.
+1. Select the **Document Information** tab.
+1. For **Type Code**, select "SINGLE TRIP".
+1. Click **Save**.
+
+### III. Enter Accounting Codes
 You will now be taken to your newly created "Authorization" Summary. This process will allow the #travel team to review your itinerary and approve your travel.
 
 **Bill your travel to the right organization.**
@@ -85,14 +92,14 @@ If most of your work is either Billable or non-Billable, you can choose a defaul
 #### 4. Verify you've select the right codes
 If you've verified that you've selected the correct codes,
 
-[Proceed to Submit Authorization for Approval](#iii-submit-authorization-for-approval)
+[Proceed to Submit Authorization for Approval](#iv-submit-authorization-for-approval)
 
 #### Having Trouble
 **What is an authorization?** Steps 1-3 cover the process of getting an authorization, which is simply the formal approval from your supervisor for travel, including a review and booking of major expenses such as flights and hotels.
 
 If you've navigated away from your authorization, you can find it from the **Home** page, scroll down to the **Recent Authorization** and click **Edit**
 
-### III. Submit Authorization for Approval
+### IV. Submit Authorization for Approval
 You're getting really close! You can almost feel the TSA X-ray scan! One last step before it's travel time! In this step, you will send your authorization to be approved by the 18F travel team.
 
 
@@ -100,13 +107,13 @@ You're getting really close! You can almost feel the TSA X-ray scan! One last st
 
     * You will now see a list of all the items that might cause a fail or hardfail for the trip to be approved.
 
-    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please go back up to the [Enter Accounting Codes section of this guide](#ii-enter-accounting-codes).
+    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please go back up to the [Enter Accounting Codes section of this guide](#iii-enter-accounting-codes).
 
     *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
 
 3. Correct your or justify failures. To justify a _FAIL_, you may either add an explanation after clicking Justify Pre-Audit Results, or via email to 18Ftravelauths@gsa.gov.
 
-4. Click **Submit** (in the upper right hand corner of your authorization)
+4. Click **Document Actions -> Submit Document** (in the upper right hand corner of your authorization)
 
 5. Stamping
    * You will be taken to a document history page. If your **“Status to Apply”** is **“Submit to Approver”**, then click **Stamp and Submit Document** at either the top or the bottom of the page and continue. If not, please correct any other failures.
