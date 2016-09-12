@@ -167,7 +167,19 @@ While this process can take up to eight days, the upshot is that your conference
 
 [Online University (OLU)](https://gsaolu.gsa.gov/) is where you'll take mandatory trainings for federal employees.
 
-To register for OLU, you will need to have an active CHRIS account (see &ldquo;CHRIS,&rdquo; above). Once your CHRIS account is active, it can take up to seven weeks for your OLU account to be created. If you still haven&rsquo;t received an OLU email two months after starting and you already have a CHRIS account, follow the `Need help logging in?` link on the OLU homepage and request access via live chat.
+To register for OLU, navigate to https://gsaolu.gsa.gov. You'll need to be on a GSA network to reach it. Then
+follow the link, "Need help logging in to OLU..."
+
+![OLU front page](/images/olu/olu1.png)
+
+From the "Alternative Support Options" drop-down menu, select "Request GSA Online University Login"
+
+![OLU Alt support](/images/olu/olu2.png)
+
+Finally, complete the form, submit and await your temporary password and further
+instructions by email.
+
+![OLU registration form](/images/olu/olu3.png)
 
 18F employees are required to take the [following courses](/professional-development-and-training/#mandatory-training).
 

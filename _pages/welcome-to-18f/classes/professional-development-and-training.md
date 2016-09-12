@@ -22,7 +22,7 @@ There are many training and professional development opportunities available to 
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov/login.asp). Please note: You may not have access to this for your first four to six weeks at 18F. Mandatory trainings include: 
+All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov/login.asp). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include: 
 
 <table>
   <thead>
@@ -130,7 +130,7 @@ That said, 18F will consider all requests for training, but it’s the responsib
 
 Once your IDP is approved, enter your speaking or training request in [our team spreadsheet](https://docs.google.com/spreadsheets/d/1Y0336rKQ4FiTFhoQynRjoVuJFzXEgaV0QcHqaNd-Eis/edit#gid=751771132). Please complete the entire form, except for columns B (supervisor approval), D (presence of red flags), Q (notes), R (identification of red flags), and S (steps to approval).
 
-If you don’t complete all the required columns, there will likely delay the processing of your request. 
+If you don’t complete all the required columns, there will likely delay the processing of your request.
 
 Within one week of submitting your request, you should hear back from [Pia](mailto: pia.scott@gsa.gov) about the status of your request and whether you have any red flags to resolve.
 
