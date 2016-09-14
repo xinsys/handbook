@@ -15,9 +15,7 @@ title: Get access to Concur
 You’ll get a number like **E000xxxxx** in the reply, which is important for the next step. _While you wait, you might want to get a start on [getting a travel card](/first-time-travel-travel-card)_.
 
 4. Fill out [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) (minus the EFT enrollment form that you already did on page 3).
-Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well!
-
-  _Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
+Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well! _Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
 
 6. Email completed CGE form to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
 
