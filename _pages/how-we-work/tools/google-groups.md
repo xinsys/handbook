@@ -6,7 +6,7 @@ We use Google Groups to manage team and interest-based email distribution lists 
 
 ## Create a Google Group
 
-1. Open [GSA Service Desk](https://gsa.service-now.com).
+1. Open the [GSA Service Desk Self-Service Portal](https://gsa.service-now.com/GSA_Self-Service/).
 1. Under the **Make a Request** menu, click **Accounts and Access**.
 1. Click **Google Groups/Sites Creation or Access**.
 1. The service catalog auto-populates your name in the request. Note: If making a request on behalf of someone else, search for their name with the magnifying glass icon.
