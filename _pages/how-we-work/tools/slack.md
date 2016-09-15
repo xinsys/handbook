@@ -15,22 +15,21 @@ Because Slack is a web application, there’s no installation necessary. You can
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options.
 - **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/@noah/) and [Hillary Hartley](https://18f.slack.com/messages/@hillary/).
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** If you need to share sensitive data (environmental variables, passwords, and so forth), please use [Fugacious](https://fugacious.18f.gov/) to create a short message that is auto-deleted. If the information you need to share is very complex, please share it using a GSA Google Drive folder, and then promptly delete it once you’re done sharing.
-- **Assume everything you share will be made public**. Treat Slack as a public forum - you have _no_ privacy. This includes file uploads to Slack.
-
+- **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack.
 
 ## Usage of 18F's Slack
 
 Slack is required for all 18F staff (including PIFs). We can also invite people outside 18F to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
 
-- vendors _under contract_ (not just a Terms of Service) with 18F
-- vendors with GSA who are working on a project with 18F, for which we have an MOU
-- partners at federal agencies whose projects are under an Interagency Agreement with 18F
-- federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
-- members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
+- Vendors _under contract_ (not just a Terms of Service) with 18F
+- Vendors with GSA who are working on a project with 18F, for which we have an Memorandum of Understanding (MOU)
+- Partners at federal agencies whose projects are under an Interagency Agreement with 18F
+- Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
+- Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
 
 ## Usage of other Slack teams
 
-You may be invited to other Slack teams operated by government entities, or entities under contract to the government. You are allowed to join those teams as necessary for your work - you should join those teams with your **government email address** and ensure your avatar and profile information is consistent across Slack teams. If you are invited to Slack teams unrelated to your job, you must join those teams under a personal email address.
+You may be invited to other Slack teams operated by government entities, or entities under contract to the government. You're allowed to join those teams as necessary for your work. You should join those teams with your **government email address** and ensure your avatar and profile information are consistent across Slack teams. If you're invited to Slack teams unrelated to your job, you must join those teams with a personal email address.
 
 ### Project stakeholders
 
@@ -44,13 +43,13 @@ You can invite government partners to specific project channels to foster collab
 
 ### Friends
 
-Friends from other government teams can be invited into a project's channel or a general purpose channel like `#friends`. If the individual is a federal employee, and the main purpose of inviting them is to work on government projects, the invite should be sent to their `.gov`/`.mil` email address.
+Friends from other government teams can be invited into a project's channel or a general purpose channel like [#friends](https://18f.slack.com/messages/friends/). If the individual is a federal employee, and the main purpose of inviting them is to work on government projects, the invite should be sent to their `.gov`/`.mil` email address.
 
 ## Records policy
 
 Per the mandatory [General Records Schedule 3.1](http://www.archives.gov/records-mgmt/memos/ac33-2014.html) issued by the National Archives and Records Administration (NARA), everything in Slack channels and groups is considered at minimum a temporary record.
 
-To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in `admins-slack`.
+To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://18f.slack.com/messages/admins-slack/).
 
 This policy applies to all types of Slack communications: public channels, private groups, even direct messages. **Nothing is private.** We use the [compliance export](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-policy-update#complianceexport) capability in Slack to view all messages. The Primary Team Owner is responsible for ensuring monthly exports and backing these exports up in GSA's Google Drive.
 
@@ -82,7 +81,7 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 - **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don’t say something on Slack that you wouldn’t feel comfortable appearing on the news.
 - Slack provides some [formatting tips](https://get.slack.help/hc/en-us/articles/202288908-How-can-I-add-formatting-to-my-messages) to make your messages extra fancy.
-- **When customizing your profile** with your location or [personal pronouns](http://pronoun.is/), consider also adding those details to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information.
+- **When customizing your profile** with your location or [personal pronouns](http://pronoun.is/), consider also adding those details to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Many people use airport codes instead of city names to indicate their location.
 - **The advanced settings section** provides an option for _only showing channels that have unread messages._ This is useful if you’re a member of a lot of channels.
 - **Click the timestamp** on any post to go to the archival view of it. This is helpful if you’d like to cross-post a link to a message in another channel.
 - **When using Slack on mobile:** mentioning someone in a channel they aren’t in won’t notify them, and you won’t get the option to invite someone after mentioning them.
@@ -92,10 +91,10 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 - **Never use Slack to share secure information.** If you need to share short bits of text securely, use [Fugacious](https://fugacious.18f.gov/). If you want to say something private, it’s easy to ask someone to hop on a call. (See the [shortcuts](/slack/#shortcuts) below.)
 - **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
 - You can also search by tagged emoji, which is why you’ll frequently see people leaving emoji on messages. We use the :evergreen_tree: emoji to catalog things we need to document for future new hires. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`). We have a blog post about this [here](https://18f.gsa.gov/2015/12/08/using-emoji-for-knowledge-sharing/).
-- **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry—though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.
+- **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.
 - **Praise your coworkers.** If you'd like to praise someone for doing good work, start a message with `love @username` or `:heart: @username` in [#general-talk](https://18f.slack.com/archives/general-talk), or any channel in which [Charlie](https://18f.slack.com/team/charlie) is present. You can also see recent praise in [#love](https://18f.slack.com/archives/love).
 - **Use text encoding when pasting a large chunk of text.** Use the + sign to the left of the text box to create a snippet. There will be an option to select how you would like to encode the text; select plain text to avoid smart quotes, if you're pasting code.
-- **Emojis come in different colors.** Tired of tabbing through multiple skin color emoji to find the one you want/identify with? Click on the Emoji Deluxe picker (the smily face in the text box) - then click on the emoji in the bottom right corner. You can then select a default color going forward.
+- **Emojis come in different colors.** Tired of tabbing through multiple skin color emoji to find the one you want or identify with? Click on the Emoji Deluxe picker (the smily face in the text box) - then click on the emoji in the bottom right corner. You can then select a default color going forward.
 - **Change your color scheme.** You can change your color scheme by going to Preferences --> Theme --> Custom Theme. Paste the following for the US Design Standards theme: `#112E51,#205493,#0071BC,#FFFFFF,#323A45,#FFFFFF,#4AA564,#981B1E`
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
 - **Update Slackbot.** We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://18f.slack.com/customize/slackbot). (You can also [add emoji](https://18f.slack.com/customize/emoji)).
@@ -139,12 +138,11 @@ If you're interested in learning more about the bots, or perhaps contributing to
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://18f.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
 - Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.18f.gov/grouplet-playbook/) for information about working groups and guilds.
 - Channels that end with `-partner` include partners from other agencies.
-- Channels that end with `-usds` include other U.S. Digital Service teams.
 - Channels that end with `-public` may include members of the public.
 
 ### Shortcuts
 
-- Type `@channel [message]` to send your message to everyone in the channel. Use sparingly (if everyone in the channel needs to see your message).
+- Type `@channel [message]` to send your message to everyone in the channel. Use sparingly and only if everyone in the channel needs to see your message.
 - Type `@here [message]` to send your message to everyone in the channel with Slack open **at a desktop computer.** Don't use this as a softer version of an `@channel` because there will be no notification for anyone who wasn't at their computer.
 - Type `/me [message]` to “emote” your message. (Just try it.)
 - Type `/mute` to suppress notifications from the channel you’re currently in. You can also turn on desktop notifications for specific channels.
