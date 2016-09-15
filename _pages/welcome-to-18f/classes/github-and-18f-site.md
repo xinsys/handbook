@@ -86,6 +86,6 @@ We use [Google Analytics](/google-analytics/) and participate in the [Digital An
 
 The only way new employees need to interact with the 18F site during their first month is to add their picture to the Team page. This isn't mandatory, of course, but we&rsquo;d really like it if everyone had a photo. (We use the 18F logo in place of a photo if you don't have one.)
 
-To get going, find or take an appropriate photo and upload it to [this Google Drive folder](https://drive.google.com/a/gsa.gov/folderview?id=0B8kn3cuJUwEkLUMwWXE2VVczbUU&usp=sharing). We have some guidelines about good photos, [here](https://drive.google.com/a/gsa.gov/folderview?id=0B8kn3cuJUwEkLUMwWXE2VVczbUU&usp=sharing).
+To get going, find or take an appropriate photo and upload it to [this Google Drive folder](https://drive.google.com/a/gsa.gov/folderview?id=0B8kn3cuJUwEkLUMwWXE2VVczbUU&usp=sharing). We have some guidelines about good photos, [here](https://docs.google.com/a/gsa.gov/document/d/1xEFRPtJBrsJH-0ZhL9Wq1T8iILGydM-7R11iPTVWJVg/edit?usp=drive_web).
 
 If you&rsquo;re interested in contributing to the site as a developer or designer, talk to [Greg Boone](https://18f.slack.com/messages/@gregboone) or [Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley) or join [#beta-18f-site](https://18f.slack.com/messages/beta-18f-site/).
