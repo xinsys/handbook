@@ -223,6 +223,10 @@ And now, the fun part: It’s time for you to attend your conference or training
 
 If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please add that event to our [event spreadsheet](https://docs.google.com/spreadsheets/d/1Y0336rKQ4FiTFhoQynRjoVuJFzXEgaV0QcHqaNd-Eis/edit#gid=2065658991). You&rsquo;ll also need to follow [this guide](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit#heading=h.t8mki1xtcuxz).
 
+## Self-directed study for engineers
+
+Engineering Chapter members: Would you like to pursue a self-directed training option? Would you like to teach yourself a new programming language, read the latest book on software development ideology, or take an online course? You totally can! Please include the request as part of your Individual Development Plan (IDP). If there is any type of cost associated with your training, you will need a to also submit a supervisor-approved (i.e. signed) Standard Form 182. Once you’ve submitted your IDP your Supervisor will usually approve the request within 72 hours, and you will be good to go! Please coordinate with your project to carve out the time, and with your Supervisor to determine the duration, goals, and success markers of self-directed study. Please talk with your Facilitator or Supervisor with any questions, comments, or concerns.
+
 ## Other training resources
 
 As an 18F team member, you have access to additional online training resources.
@@ -234,3 +238,4 @@ As an 18F team member, you have access to additional online training resources.
 - 18F has a number of licenses to **User Interface Engineering (UIE)&rsquo;s video library.** To access it, add your name to [this spreadsheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1CGl5gBdFhKQ3aFdvv67KGLa21xj-WFp6whRF9XGU-B0/edit#gid=0). Then log in [here](http://aycl.uie.com/).
 
 - [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, email [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov).
+-
