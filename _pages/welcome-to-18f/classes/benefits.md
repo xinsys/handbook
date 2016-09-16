@@ -162,6 +162,9 @@ To see your recent pay stubs:
 2. Click the "View Your Earnings and Leave Statement" link in the middle of the page.
 3. Choose the appropriate pay period in the drop-down menu.
 
+Note that the gross income in your paycheck will a little less than your annual income / 26 paychecks. The difference lies in the way the federal government calculates hourly rates from annual salary. The federal government divides the annual salary by 2087 hours rather than 2080 hours (26 pay periods x 80 hours) to determine hourly rates.
+
+This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an [article](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/) which further explains this.
 
 ## Retirement
 
