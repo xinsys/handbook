@@ -140,7 +140,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ## Mailing lists
 
-  - 18F-dev@gsa.gov. You’ll most likely get added automatically — no need to worry about registering.
+  - 18F-dev@gsa.gov. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://18f.slack.com/messages/eng-leadership). Someone there will get you set up.
   - Optional listservs that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#interagency-open-data-working-group), [Security Today](/general-contacts-and-listservs/#security-today).
 
 ## Tools
