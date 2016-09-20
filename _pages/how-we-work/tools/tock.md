@@ -22,7 +22,9 @@ Timecards are due by the end of day (close of business) on Monday. If you fail t
 
 ## Tracking time
 
-Carefully track and record your work at 18F. Some 18F colleagues use software such as [Toggl](https://toggl.com/), [Hours](https://hourstimetracking.com/), or [RescueTime](https://www.rescuetime.com/) to do this. Others have created [templates](https://docs.google.com/spreadsheets/d/1S2WWVy3Y5pQ4Bweg0DsGyKOaqzoou_YIE3Jf9uRDwlI/edit) in Google Sheets to record their weekly time. Feel free to make a copy of this template and use it for yourself.
+Carefully track and record your work at 18F. Some 18F colleagues use software
+such as [Toggl](https://toggl.com/) or [Hours](https://hourstimetracking.com/) to do this. Others have created [templates](https://docs.google.com/spreadsheets/d/1S2WWVy3Y5pQ4Bweg0DsGyKOaqzoou_YIE3Jf9uRDwlI/edit) in Google Sheets to record their weekly time. Feel free to make a copy of this template and use it for yourself.
+
 
 You should track time spent on each billable project separately. In addition, you should split out certain entries for non-billable work. Here's a quick cheat-sheet on common non-billable time entries:
 
