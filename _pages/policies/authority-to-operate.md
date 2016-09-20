@@ -56,4 +56,4 @@ This policy is put into effect by this policy being digitally signed by the Acti
 
 #### Still have questions?
 
-Ask in Slack: [#compliance](https://18f.slack.com/messages/compliance/)
+Ask in Slack: [#infrastructure](https://18f.slack.com/messages/infrastructure/)
