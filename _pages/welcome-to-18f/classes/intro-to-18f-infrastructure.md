@@ -125,4 +125,4 @@ There&rsquo;s no one answer here. It&rsquo;s a complicated Venn diagram. One eas
 
 ---
 
-Ask in Slack: [#infrastructure](https://18f.slack.com/messages/infrastructure/) and [#compliance](https://18f.slack.com/messages/compliance/); Before you start a research project: [#pra](https://18f.slack.com/messages/pra), [#research](https://18f.slack.com/messages/research).
+Ask in Slack: [#infrastructure](https://18f.slack.com/messages/infrastructure/); Before you start a research project: [#pra](https://18f.slack.com/messages/pra), [#research](https://18f.slack.com/messages/research).
