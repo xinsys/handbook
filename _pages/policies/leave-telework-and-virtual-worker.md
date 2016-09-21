@@ -12,11 +12,11 @@ Should an unforeseen emergency or illness arise requiring the use of leave not p
 
 Before taking leave, be sure to:
 
-__ Submit leave through [ALOHA](https://aloha.gsa.gov)<br>
-__ Update the 18F Out of Office Calendar<br>
-__ Notify your Engagement Manager, if you're on an outside project, so they can update Float<br>
-__ Submit correct Tock entries assigned to Annual Leave<br>
-__ Share via Slack, email or over media with folk how need to know, and make sure work is covered<br>
+- Submit leave through [ALOHA](https://aloha.gsa.gov)
+- Update the 18F Out of Office Calendar
+- Notify your Engagement Manager, if you're on an outside project, so they can update Float
+- Submit correct Tock entries assigned to Annual Leave
+- Share via Slack, email or over media with folk how need to know, and make sure work is covered
 
 ## Telework
 
