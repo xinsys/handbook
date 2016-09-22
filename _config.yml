@@ -227,6 +227,9 @@ navigation:
   - text: Networks
     url: networks/
     internal: true
+  - text: One-on-ones
+    url: one-on-ones/
+    internal: true
   - text: Tools
     url: tools/
     internal: true
