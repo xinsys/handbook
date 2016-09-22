@@ -261,7 +261,7 @@ want to think about discussing:
     “question of the week” that they ask in all their 1:1s. Sometimes
     this can help with the “data collection” part of management, or it
     can just prompt discussion. There are some great resources in the
-    [*Further Reading*](#_cwotvewkxjk2) section below that can help
+    [*Further Reading*](#further-reading) section below that can help
     provide potential topics, or you can of course bring your own.
 
 Of course, these are just starting points. As you practice and build
