@@ -16,7 +16,7 @@ Tock looks like this: ![Screenshot of Tock]({{ site.baseurl}}/images/tock/tock.p
 
 You must manually submit your timecard each week, and your hours each week must total exactly 40 (with the exception of partial weeks that may occur at the end of the fiscal year in September). To submit a timecard, choose the correct week for your entries from the list on the homepage, enter your time based on the projects you worked for that week, and click submit.
 
-Timecards are due by the end of day (close of business) on Friday. If you fail to submit your timecard on time, your manager will bug you until you get it done! Timecards for the current week should be available on Monday.
+Timecards are due by the end of day (close of business) on Friday. If you fail to submit your timecard on time, your manager will bug you until you get it done! Timecards for the current week should be available no later than Monday at 9AM PST.
 
 ## Tracking time
 
