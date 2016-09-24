@@ -19,16 +19,17 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 Because GitHub is a web application, there&rsquo;s no installation necessary, but you may find the [desktop app](https://desktop.github.com/) useful.
 
-If you don&rsquo;t have a GitHub account, please use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records). If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails).
+If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email, and ensure it is visible on your public GitHub profile.
 
 ### 1. Complete your profile
 
 Include the following:
 
 - Name: Your first or first and last name.
+- Email: Your work email. Make sure it is publicly visible. 
 - Company: Your government agency. (If you also use GitHub for personal projects, consider specifying &ldquo;<code>agency</code> (work) + personal projects&rdquo; to make it clear that some of your GitHub projects may be personal in nature.)
 - Location: Your primary work location (city, state).
-- Photo: A headshot photo, or image that is unique to you.
+- Photo: A headshot photo or an image that is unique to you.
 
 ### 2. Set up two-factor authentication
 
@@ -92,7 +93,9 @@ If you want to make a suggestion to an 18F project without making a specific cha
 
 ### Permissions
 
-Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above). Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
+Teams can give groups of 18F staff administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above). 
+
+Contractors or external government collaborators are allowed, but only as part of an inter-agency agreement, memorandum of understanding, or contract. They should only be added to teams with scoped `write` permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
 
 ### Working with outside collaborators
 
