@@ -76,11 +76,11 @@ See [the org chart](/org-chart).
 
 ### What is expected of me regarding time tracking and how I spend my time?
 
-18F team members are committed to up to 32 hours weekly of project time. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
+The default template for 18F engineers is to be committed to a single project full-time, which means 32 hours a week. If you'd like a different arragement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
 
-All 18F staff track their time in [Tock](https://tock.18f.gov/). Time sheets for the previous week are due at the end of the day (COB in your time zone) each Monday. Learn more in the [Tock guide](/tock/).
+Your project commitments should be captured in [Float](/float/). On a typical week the number of hours you work on your project will match what is marked in Float. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
 
-While cost recovery is an important organizational goal, internal, non-billable work is important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
+All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in the [Tock guide](/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
 ### I’m interested in working on a different or additional project. How can I do that?
 
@@ -108,6 +108,15 @@ You’re  encouraged to identify areas where government can be made better and p
 - There is a monthly Great Pitch that OCSIT/18F hold that awards seed funding to projects. Watch out for emails about these, and see the [pitch application template](https://docs.google.com/document/d/1ZEoc8h9uaVXtwYgLj0YiQleXbr6dmj0OA3NDO0cAtWM/edit).
 - [#seeds](https://18f.slack.com/archives/seeds) can help you find out what funding options are available if Great Pitch isn't a good match.
 
+### How can I move from another part of 18F into engineering?
+
+Are you already a member of 18F and interested in moving into the Engineering Chapter? Hooray! Here are some steps to follow:
+
+1. Talk with a member of the Engineering leadership team (a facilitator, supervisor, or the director). Express interest with your Supervisor. Let's make sure this move is a possibility.
+2. Someone from Engineering will review your relevant work, for example any software you've written for 18F projects, to understand whether your level of software development expertise is appropriate to join Engineering, or suggest ways you could develop that expertise.
+3. You'll have a meeting with someone from Engineering leadership to review the expectations of being in Engineering, review the appropriate performance profile, and talk about a development plan to improve software skills, if appropriate.
+4. Your current Supervisor, your new Engineering Supervisor, and yourself will agree on a transition date.
+
 ## <a id="rituals">Rituals</a>
 
 Most of the Engineering team works on a mix of partner agency projects and internal initiatives. As you’d guess, everyone’s weeks look a little different. That said, there are recurring weekly meetings and commitments we all have on our calendars.
@@ -132,7 +141,8 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Facilitator groups
 
-[#eng-cronus1](https://18f.slack.com/messages/eng-cronus1), [#eng-chumanjalaal](https://18f.slack.com/messages/eng-chumanjalaal), [#eng-voyager1](https://18f.slack.com/messages/eng-voyager1), [#spaceball1](https://18f.slack.com/messages/spaceball1), [#eng-apollo](https://18f.slack.com/messages/eng-apollo), [#eng-bellatrix](https://18f.slack.com/messages/eng-bellatrix), [#eng-leadership](https://18f.slack.com/messages/eng-leadership).
+[#eng-cronus1](https://18f.slack.com/messages/eng-cronus1), [#eng-chumanjalaal](https://18f.slack.com/messages/eng-chumanjalaal), [#eng-voyager1](https://18f.slack.com/messages/eng-voyager1), [#spaceball1](https://18f.slack.com/messages/spaceball1), [#eng-apollo](https://18f.slack.com/messages/eng-apollo), [#eng-bellatrix](https://18f.slack.com/messages/eng-bellatrix), [#eng-eagle5](https://18f.slack.com/messages/eng-eagle5),
+[#eng-leadership](https://18f.slack.com/messages/eng-leadership).
 
 ### Everything else
 
@@ -140,7 +150,8 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ## Mailing lists
 
-  - 18F-dev@gsa.gov. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://18f.slack.com/messages/eng-leadership). Someone there will get you set up.
+  - [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://18f.slack.com/messages/eng-leadership). Someone there will get you set up.
+  - [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entier engineering leadership team at once.
   - Optional listservs that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#interagency-open-data-working-group), [Security Today](/general-contacts-and-listservs/#security-today).
 
 ## Tools
