@@ -20,7 +20,7 @@ There are several options for sharing sensitive information at 18F. As you'll re
 
 ### Google Drive
 
-[Google Drive](../google-drive/) can be used for sharing sensitive files, spreadsheets, and documents.
+[GSA Google Drive](../google-drive/) can be used for sharing sensitive files, spreadsheets, and documents. This includes personally identifiable information (PII) of either Federal staff, or the public, but *does not* include classified information of any kind. If handling PII, be absolutely sure you are only sharing Drive files with GSA staff, and that they have a direct need of the information for their job.
 
 ### OMB MAX
 
