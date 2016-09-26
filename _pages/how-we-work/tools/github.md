@@ -19,7 +19,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 Because GitHub is a web application, there&rsquo;s no installation necessary, but you may find the [desktop app](https://desktop.github.com/) useful.
 
-If you don&rsquo;t have a GitHub account, please use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records). If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails).
+If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email, and ensure it is visible on your public GitHub profile.
 
 ### 1. Complete your profile
 
@@ -28,7 +28,7 @@ Include the following:
 - Name: Your first or first and last name.
 - Company: Your government agency. (If you also use GitHub for personal projects, consider specifying &ldquo;<code>agency</code> (work) + personal projects&rdquo; to make it clear that some of your GitHub projects may be personal in nature.)
 - Location: Your primary work location (city, state).
-- Photo: A headshot photo, or image that is unique to you.
+- Photo: A headshot photo, or an image that is unique to you.
 
 ### 2. Set up two-factor authentication
 
@@ -67,6 +67,25 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Ask Infrastructure before deleting repositories.** Deleting repositories isn&rsquo;t as simple as deleting them from GitHub. Before you do anything, drop into [#admins-github](https://18f.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why.
 
+### Working with outside collaborators
+
+Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community. 
+
+Here&rsquo;s our current process to address both operational and security concerns:
+
+1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.18f.gov/iaa-forms/primer.html) or other legal document authorizing the work. 
+1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
+1. Ask the collaborator(s) to go through [the setup steps](#setup).
+    * They will need to confirm they've done this before you continue.
+2. (Ask #admins-github to) [create a team](https://help.github.com/articles/adding-people-to-teams-in-an-organization/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`.
+3. In the &ldquo;Description&rdquo; of the team, put something reasonable plus a point-of-contact email address for the collaborators.
+    * Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
+5. (Ask #admins-github to) add the members.
+    * The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
+6. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
+
+When the engagement is over, you must let #admins-github know so the access can be removed.
+
 
 ## Usage
 
@@ -92,20 +111,9 @@ If you want to make a suggestion to an 18F project without making a specific cha
 
 ### Permissions
 
-Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above). Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
+Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above). 
 
-### Working with outside collaborators
-
-Giving outside collaborators (such as contractors, federal partners, and so on) read/write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community. Here&rsquo;s our current process to address both operational and security concerns:
-
-1. Ask the collaborator(s) to enable two-factor authentication.
-2. [Create a team](https://help.github.com/articles/adding-people-to-teams-in-an-organization/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team. In the case of our previous work with contractors, because they did work across 18F, we just named the team `Contractor name`. In other cases, if the collaborators are scoped to a particular project, you can name the team something like `Project name - Collaborators | Skillset`.
-3. In the &ldquo;Description&rdquo; of the team, put something reasonable plus a point-of-contact email address for the collaborators. Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops. We need this contact information because people don&rsquo;t always list their email on their GitHub profile.
-4. A mixed or collaborator team should, at maximum, have the &ldquo;Write&rdquo; permission. Admin rights should be limited exclusively to our staff.
-5. Add the members. Ensure that 2FA/MFA (an orange warning sign) is enabled for them on the team page. 18F Infrastructure checks this on onboarding/biweekly audits, but since a user could turn it off at any time and retain their membership in the organization with no notification back to owners, it&rsquo;s always good to triple check.
-
-	If you are not an 18F github admin, you cannot add external team members. Confirm your partners have enabled 2FA and ask the #admins-github Slack channel to add the users to the team. 
-6. Add the relevant repositories.
+Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
 
 ## Resources
 
