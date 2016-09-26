@@ -31,6 +31,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
     * **Phone Number**, for airline requirements and to facilitate booking
     * **Origin and Destination Airports or Train Stations**, for obvious reasons
     * **Approved Dates of Travel**, including approximate times if possible
+    * **A good time for the 18F travel team to call you** in order to set up flights. The travel team's hours of operation         are Monday through Friday from 9 AM to 7 PM Eastern time.
 
 5. **Confirm travel**: Once you’ve sent in all of your information, one of the members of the 18F travel team will reach out to you by phone about potential travel options.
 
