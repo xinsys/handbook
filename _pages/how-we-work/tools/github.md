@@ -65,15 +65,15 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Ask Infrastructure before creating private repositories.** We pay GitHub for the ability to create private repositories and need to bill clients for repositories created on their behalf. Before you do anything, drop into [#admins-github](https://18f.slack.com/messages/admins-github) and explain what you&rsquo;d like to do and why.
 
-- **Ask Infrastructure before deleting repositories.** Deleting repositories isn&rsquo;t as simple as deleting them from GitHub. Before you do anything, drop into [#admins-github](https://18f.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why.
+- **Ask Infrastructure before deleting repositories.** Deleting repositories isn&rsquo;t as simple as deleting them from GitHub. Before you do anything, drop into [#admins-github](https://18f.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why. Note that we do use [BackHub](https://backhub.co/) for backups of repositories, just in case.
 
 ### Working with outside collaborators
 
-Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community. 
+Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community.
 
 Here&rsquo;s our current process to address both operational and security concerns:
 
-1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.18f.gov/iaa-forms/primer.html) or other legal document authorizing the work. 
+1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.18f.gov/iaa-forms/primer.html) or other legal document authorizing the work.
 1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
 1. Ask the collaborator(s) to go through [the setup steps](#setup).
     * They will need to confirm they've done this before you continue.
@@ -111,7 +111,7 @@ If you want to make a suggestion to an 18F project without making a specific cha
 
 ### Permissions
 
-Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above). 
+Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above).
 
 Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
 
