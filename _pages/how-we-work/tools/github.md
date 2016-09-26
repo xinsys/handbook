@@ -67,6 +67,25 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Ask Infrastructure before deleting repositories.** Deleting repositories isn&rsquo;t as simple as deleting them from GitHub. Before you do anything, drop into [#admins-github](https://18f.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why.
 
+### Working with outside collaborators
+
+Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community. 
+
+Here&rsquo;s our current process to address both operational and security concerns:
+
+1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.18f.gov/iaa-forms/primer.html) or other legal document authorizing the work. 
+1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
+1. Ask the collaborator(s) to go through [the setup steps](#setup).
+    * They will need to confirm they've done this before you continue.
+2. (Ask #admins-github to) [create a team](https://help.github.com/articles/adding-people-to-teams-in-an-organization/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`.
+3. In the &ldquo;Description&rdquo; of the team, put something reasonable plus a point-of-contact email address for the collaborators.
+    * Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
+5. (Ask #admins-github to) add the members.
+    * The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
+6. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
+
+When the engagement is over, you must let #admins-github know so the access can be removed.
+
 
 ## Usage
 
@@ -95,21 +114,6 @@ If you want to make a suggestion to an 18F project without making a specific cha
 Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above). 
 
 Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
-
-### Working with outside collaborators
-
-Giving outside collaborators (such as contractors, federal partners, and so on) read/write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community. Here&rsquo;s our current process to address both operational and security concerns:
-
-1. Ask the collaborator(s) to go through [the setup steps](#setup).
-    * They will need to confirm they've done this before you continue.
-2. (Ask #admins-github to) [create a team](https://help.github.com/articles/adding-people-to-teams-in-an-organization/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`.
-3. In the &ldquo;Description&rdquo; of the team, put something reasonable plus a point-of-contact email address for the collaborators.
-    * Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
-5. (Ask #admins-github to) add the members.
-    * The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
-6. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
-
-When the engagement is over, please let #admins-github know so the access can be removed.
 
 ## Resources
 
