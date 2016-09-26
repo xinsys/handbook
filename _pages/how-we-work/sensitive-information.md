@@ -24,4 +24,4 @@ There are several options for sharing sensitive information at 18F. As you'll re
 
 ### OMB MAX
 
-[OMB MAX](https://max.omb.gov/) is a tool that's provided by/for the federal government, which can be used for sharing files. MAX is most likely to be used with partners who don't have access to (or who don't feel comfortable putting the information in) Google Drive.
+[OMB MAX](https://max.omb.gov/) is a tool that's provided by/for the federal government, which can be used for sharing files. MAX is most likely to be used with partners who don't have access to (or who don't feel comfortable putting the information in) Google Drive. Some workspaces in MAX are available to private organizations (for example, cloud service providers in the FedRAMP workspaces) or many other government agencies. Be sure you know who you're sharing with before posting.
