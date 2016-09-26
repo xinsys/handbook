@@ -14,6 +14,8 @@ There are several options for sharing sensitive information at 18F. As you'll re
 
 ### Fugacious
 
+<!-- Note this information needs to remain *somewhere* for cloud.gov FedRAMP compliance. -->
+
 [Fugacious](https://fugacious.18f.gov/) is a tool for short-term secure messaging. Fugacious is most useful for sending small bits of text once, such as passwords or API keys. We recommend setting the lowest acceptable "self-destruct" settings that you can. Fugacious links can be shared over Slack, but please don't put sensitive information in Slack directly.
 
 ### Google Drive
