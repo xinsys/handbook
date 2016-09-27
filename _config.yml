@@ -349,6 +349,9 @@ navigation:
   - text: Promotions
     url: promotions/
     internal: true
+  - text: Security incidents
+    url: security-incidents/
+    internal: true
   - text: Term extensions
     url: term-extensions/
     internal: true
