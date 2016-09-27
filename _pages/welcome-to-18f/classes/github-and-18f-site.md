@@ -8,14 +8,13 @@ _This section covers the basics of how 18F&rsquo;s website works and includes a 
 
 ### Leadership
 
-[Outreach](/outreach) is responsible for maintaining the 18F website. [Greg Boone](https://18f.slack.com/messages/@gregboone) and [Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley) are the lead developers.
+[Outreach](/outreach) is responsible for maintaining the 18F website. [Greg Boone](https://18f.slack.com/messages/@gregboone) and [Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley) are the product leads.
 
 ### Communication
 
 Find us in Slack:
 
-- [#18f-site](https://18f.slack.com/messages/18f-site)
-- [#beta-18f-site](https://18f.slack.com/messages/18f-site-design)
+- Use [#18f-site](https://18f.slack.com/messages/18f-site) to report issues.
 
 ### Documentation
 
@@ -84,8 +83,14 @@ We use [Google Analytics](/google-analytics/) and participate in the [Digital An
 
 ### Add your photo
 
-The only way new employees need to interact with the 18F site during their first month is to add their picture to the Team page. This isn't mandatory, of course, but we&rsquo;d really like it if everyone had a photo. (We use the 18F logo in place of a photo if you don't have one.)
+Everyone at 18F should submit a photo that we'll use whenever we represent you on the website. This isn't mandatory, of course, but we&rsquo;d really like it if everyone had a photo. (We use the 18F logo in place of a photo if you don't have one.)
+
+Photos should follow these three guidelines. You should submit a photo:
+
+* Of you and only you from the shoulders up
+* Where your whole face is visible
+* Taken in a public place like a park, library, or a local federal building
 
 To get going, find or take an appropriate photo and upload it to [this Google Drive folder](https://drive.google.com/a/gsa.gov/folderview?id=0B8kn3cuJUwEkLUMwWXE2VVczbUU&usp=sharing). We have some guidelines about good photos, [here](https://docs.google.com/a/gsa.gov/document/d/1xEFRPtJBrsJH-0ZhL9Wq1T8iILGydM-7R11iPTVWJVg/edit?usp=drive_web).
 
-If you&rsquo;re interested in contributing to the site as a developer or designer, talk to [Greg Boone](https://18f.slack.com/messages/@gregboone) or [Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley) or join [#beta-18f-site](https://18f.slack.com/messages/beta-18f-site/).
+The site team works in [#beta-18f-site](https://18f.slack.com/messages/beta-18f-site/).
