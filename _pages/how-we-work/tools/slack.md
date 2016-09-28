@@ -123,7 +123,7 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 :facepalm: = Disbelief, shame, or exasperation.
 
-:troll: = I'm intentionally trolling you or making a joke
+:troll: = I'm intentionally [trolling](https://en.wikipedia.org/wiki/Internet_troll) you or making a joke
 
 ### Bots
 
