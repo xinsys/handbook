@@ -18,6 +18,10 @@ Before taking leave, be sure to:
 - Submit correct Tock entries assigned to Annual Leave
 - Share via Slack, email or over media with folk how need to know, and make sure work is covered
 
+## Religious Observance
+
+Adjusting work schedules for religious observances is handled differently than leave. If you need to miss regular work hours for religious observance, you should notify your supervisor in writing in advance of the time you'll need to miss, along with the schedule of the time you will work outside of normal hours to compensate. For details, please see the relevant [OPM policy](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/).
+
 ## Telework
 
 Telework provides the flexibility to work from home with the approval of your  supervisor. Telework improves morale and productivity by allowing for greater collaboration among peers. 18F recognizes these benefits and encourages the use of telework as described below. This policy adheres to and is in conjunction with [GSA’s Telework Policy](http://www.gsa.gov/portal/content/105192).
