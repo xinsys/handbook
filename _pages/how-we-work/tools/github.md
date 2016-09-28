@@ -19,39 +19,57 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 Because GitHub is a web application, there&rsquo;s no installation necessary, but you may find the [desktop app](https://desktop.github.com/) useful.
 
-If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email, and ensure it is visible on your public GitHub profile.
+### 1. Create a GitHub account
 
-### 1. Complete your profile
+**If you have an existing GitHub account**, you can use it—don't bother creating an 18F-specific one. [Add your work email to your profile](https://github.com/settings/emails) as your primary email, and [ensure it is visible](https://github.com/settings/profile) on your public GitHub profile.
+
+**If you don&rsquo;t have a GitHub account**, you must use your work email (rather than your personal email) to [sign up](https://github.com/join).
+
+Using your work email helps us with [records retention](/federal-records) and identification.
+
+#### Git config settings
+
+*This only applies to people using Git locally, through the command line, [GitHub Desktop](https://desktop.github.com/), etc.*
+
+- [Use your work email](https://help.github.com/articles/setting-your-email-in-git) rather than your personal email for work-related commits. This only applies to people with more than one email address tied to their GitHub account. Note that this is different than [setting notifications to go to a specific email address](https://help.github.com/articles/configuring-notification-emails-for-organizations).
+- If you're using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email, or use a tool like [karn](https://github.com/prydonius/karn). If you have both emails in your [GitHub settings](https://github.com/settings/emails), they will both be tied to your GitHub account anyway.
+
+### 2. Complete your profile
 
 Include the following:
 
-- Name: Your first or first and last name.
-- Company: Your government agency. (If you also use GitHub for personal projects, consider specifying &ldquo;<code>agency</code> (work) + personal projects&rdquo; to make it clear that some of your GitHub projects may be personal in nature.)
-- Location: Your primary work location (city, state).
-- Photo: A headshot photo, or an image that is unique to you.
+- **Name:** Your first or first and last name.
+- **Company:** Your government agency. (If you also use GitHub for personal projects, consider specifying &ldquo;<code>agency</code> (work) + personal projects&rdquo; to make it clear that some of your GitHub projects may be personal in nature.)
+- **Location:** Your primary work location (city, state).
+- **Photo:** A headshot photo, or an image that is unique to you.
 
-### 2. Set up two-factor authentication
-
-[Enable two-factor authentication (2FA)](https://github.com/settings/security):
-
-- [Use your work email](https://help.github.com/articles/setting-your-email-in-git) rather than your personal email for work-related commits. This only applies to people with more than one email address tied to their GitHub account. Note that this is different than [setting notifications to go to a specific email address](https://help.github.com/articles/configuring-notification-emails-for-organizations). If you make commits via GitHub&rsquo;s web interface, it will use your &ldquo;primary&rdquo; email address for those commits, so check your [email settings](https://github.com/settings/emails) before making web commits.
-
-- If you're using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email, or use a tool like [karn](https://github.com/prydonius/karn). If you have both emails in your [GitHub settings](https://github.com/settings/emails), they will both be tied to your GitHub account anyway.
-
-### 3. Turn notifications on
+### 3. Adjust notification settings
 
 **[Turn notifications on](https://github.com/settings/notifications)** and adjust the settings as needed. Some people watch every repo; others only watch when they're mentioned.
 
 You will get a lot of emails when you turn notifications on. To help stem the tide, you can set up a Gmail filter to automatically archive emails from `notifications@github.com`. However, you probably want to let through those emails that contain your GitHub username or are posted to a repo you're watching. Since on GitHub, each repo is considered its own mailing list, checking for that identifier is one reliable way to allow these notifications through. For example, if the repo name in GitHub is `18F/calc`, the mailing list will be `calc.18F.github.com`. You can also find this by opening an email from the desired repo, clicking the "more info" arrow in the "To" field, and copying the bracketed address in the "mailing list" field. Adding `list:(calc.18F.github.com)` to your filter's exceptions will allow any issues posted to that repo to reach your inbox.
 
-### 4. Join the 18F organization
+### 4. Get invited to [the 18F organization](https://github.com/18F)
 
-After you&rsquo;ve enabled 2FA and added your government email address to your profile, hop into [#admins-github](https://18f.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`@username`) to https://github.com/orgs/18F/teams/18f on GitHub." An admin will add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+#### 18F staff
 
-### 5. Make your membership public
+Hop into [#admins-github](https://18f.slack.com/messages/admins-github/) on Slack and **post the following**:
+
+> I've gone through the setup steps – please add me (`@github_username`) to https://github.com/orgs/18F/teams/18f.
+
+#### Contractors and federal partners
+
+Let your 18F contact know that you've "completed the GitHub setup".
+
+### 5. Accept the invite
+
+You should have received an email from GitHub saying you've been invited to the organization...you can also accept the invite [here](https://github.com/orgs/18F/invitation?via_email=1).
+
+If you haven't done so already, you will need to [enable two-factor authentication (2FA)](https://github.com/settings/security) to accept the invite.
+
+### 6. Make your membership public
 
 Go to the [18F people page](https://github.com/orgs/18F/people). Click where it says **private** next to your name. Change that to **public**.
-
 
 ## Rules
 
@@ -77,15 +95,13 @@ Here&rsquo;s our current process to address both operational and security concer
 1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
 1. Ask the collaborator(s) to go through [the setup steps](#setup).
     * They will need to confirm they've done this before you continue.
-2. (Ask #admins-github to) [create a team](https://help.github.com/articles/adding-people-to-teams-in-an-organization/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`.
+2. (Ask #admins-github to) [create a team](https://help.github.com/articles/adding-people-to-teams-in-an-organization/), if one doesn't exist already, whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`.
 3. In the &ldquo;Description&rdquo; of the team, put something reasonable plus a point-of-contact email address for the collaborators.
     * Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
 5. (Ask #admins-github to) add the members.
-    * The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
 6. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
 
 When the engagement is over, you must let #admins-github know so the access can be removed.
-
 
 ## Usage
 
