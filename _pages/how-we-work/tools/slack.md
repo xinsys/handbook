@@ -101,13 +101,13 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 ### Frequently used emoji
 
-:check: = "I did this or verified it was done"
+:check: = I did this or verified it was done
 
 :plus: = I am a +1 for the above
 
 :100: = I am a SUPER +1 to the above OR this comment is keeping it 100 (as in, keeping it real, speaking the 100% truth)
 
-:thumbsup: = sounds good
+:thumbsup: = Sounds good
 
 :question: = I don't understand this/needs followup
 
@@ -118,6 +118,12 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 :raised_hand: = I volunteer
 
 :raising_hand: = Have time for a question? (Keep in mind that many folks strongly prefer that you also add what your question is about so they can determine its urgency.)
+
+:thanks: = A picture of Tom Hanks (T. Hanks -> thanks) used as a shortcut to say "thanks"
+
+:facepalm: = Disbelief, shame, or exasperation.
+
+:troll: = I'm intentionally [trolling](https://en.wikipedia.org/wiki/Internet_troll) you or making a joke
 
 ### Bots
 
