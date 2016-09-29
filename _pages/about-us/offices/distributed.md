@@ -88,7 +88,6 @@ From Peter Karman and Becky Sweger:
 - **A standing desk is critical for your health.** Folks in the [#distributed](https://18f.slack.com/messages/distributed/) channel are always happy to discuss their various standing desk hacks or purchases.
 - **Make sure you can connect to the GSA network remotely.**
 - **GSA&rsquo;s Meeting Space isn&rsquo;t blocked by [most] firewalls.** I&rsquo;ve (Becky) had trouble with other tools in the past, and GSA Meeting Space (powered by Adobe Connect) has universally worked for calls and screen sharing with clients.
-- **The Acano user interface for muting audio and hiding video isn&rsquo;t the most intuitive.** Make sure you&rsquo;re really muted before you make noise. Also be sure to un-mute before closing Acano or you&rsquo;ll be muted when you join the next meeting.
 
 ## Keeping in touch
 

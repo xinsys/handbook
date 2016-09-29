@@ -117,16 +117,11 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 - **You can dial people into a Hangout.** A Hangout's "invite" dialog can generate a phone number that people can call.
 - Use screensharing for demos and for pairing.
 
-## <a id="acano">Acano</a>
-
-[Acano](/acano) is software that GSA uses for meetings.
-
 ## <a id="remote-tools">Screensharing tools</a>
 
 Federal employees use a range of different video software to communicate. Check with your agency partner for preferences. Some common programs:
 
 - [Google Hangouts](/google-hangouts)
-- [Acano](/acano)
 - Adobe Connect
 - Talky.io
 - Join.me (if you need an account, talk to [kathryn](https://18f.slack.com/messages/@kathryn/))

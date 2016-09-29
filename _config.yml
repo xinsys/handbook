@@ -238,9 +238,6 @@ navigation:
     internal: true
     generated: true
     children:
-    - text: Acano
-      url: acano/
-      internal: true
     - text: AnyConnect
       url: anyconnect/
       internal: true

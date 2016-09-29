@@ -1241,23 +1241,6 @@ a[id]{
 
 /* @end */
 
-/* @group .layout-article-acano */
-
-.layout-article-acano .table-acano-friendly-rooms{ margin: 0; }
-.layout-article-acano .table-acano-friendly-rooms .col-room{
-	width: 100px;
-}
-.layout-article-acano .table-acano-friendly-rooms .col-name,
-.layout-article-acano .table-acano-friendly-rooms .col-sip{
-	width: 170px;
-}
-
-.layout-article-acano .table-acano-cospaces .col-num{
-	width: 80px;
-}
-
-/* @end */
-
 /* @group .layout-article-float */
 
 @media screen and (min-width: 711.11px) {
